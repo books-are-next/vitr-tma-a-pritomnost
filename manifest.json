@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "kahuda-vitr-tma-a-pritomnost-6ef126d",
-  "revision": "6ef126d",
+  "identifier": "kahuda-vitr-tma-a-pritomnost-8385c02",
+  "revision": "8385c02",
   "readingOrder": [
     "promo.html",
     "vitr_tma_a_pritomnost_005.html",
@@ -22,8 +22,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Thu May 19 2022 09:27:12 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1652952432731
+    "date": "Thu May 19 2022 09:34:07 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1652952847463
   },
   "documents": [
     {
@@ -74,71 +74,7 @@
           "level": 1,
           "name": "Kapitola 1 Můj",
           "id": null,
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "– – –",
-              "id": "heading",
-              "children": []
-            },
-            {
-              "index": 2,
-              "level": 2,
-              "name": "– – –",
-              "id": "heading-1",
-              "children": []
-            },
-            {
-              "index": 3,
-              "level": 2,
-              "name": "– – –",
-              "id": "heading-2",
-              "children": []
-            },
-            {
-              "index": 4,
-              "level": 2,
-              "name": "– – –",
-              "id": "heading-3",
-              "children": []
-            },
-            {
-              "index": 5,
-              "level": 2,
-              "name": "– – –",
-              "id": "heading-4",
-              "children": []
-            },
-            {
-              "index": 6,
-              "level": 2,
-              "name": "– – –",
-              "id": "heading-5",
-              "children": []
-            },
-            {
-              "index": 7,
-              "level": 2,
-              "name": "– – –",
-              "id": "heading-6",
-              "children": []
-            },
-            {
-              "index": 8,
-              "level": 2,
-              "name": "– – –",
-              "id": "heading-7",
-              "children": []
-            },
-            {
-              "index": 9,
-              "level": 2,
-              "name": "– – –",
-              "id": "heading-8",
-              "children": []
-            }
-          ]
+          "children": []
         }
       ]
     },
@@ -158,43 +94,7 @@
           "level": 1,
           "name": "Kapitola 2 Život",
           "id": null,
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "– – –",
-              "id": "heading",
-              "children": []
-            },
-            {
-              "index": 2,
-              "level": 2,
-              "name": "– – –",
-              "id": "heading-1",
-              "children": []
-            },
-            {
-              "index": 3,
-              "level": 2,
-              "name": "– – –",
-              "id": "heading-2",
-              "children": []
-            },
-            {
-              "index": 4,
-              "level": 2,
-              "name": "– – –",
-              "id": "heading-3",
-              "children": []
-            },
-            {
-              "index": 5,
-              "level": 2,
-              "name": "– – –",
-              "id": "heading-4",
-              "children": []
-            }
-          ]
+          "children": []
         }
       ]
     },
@@ -214,43 +114,7 @@
           "level": 1,
           "name": "Kapitola 3 Byl",
           "id": null,
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "– – –",
-              "id": "heading",
-              "children": []
-            },
-            {
-              "index": 2,
-              "level": 2,
-              "name": "– – –",
-              "id": "heading-1",
-              "children": []
-            },
-            {
-              "index": 3,
-              "level": 2,
-              "name": "– – –",
-              "id": "heading-2",
-              "children": []
-            },
-            {
-              "index": 4,
-              "level": 2,
-              "name": "– – –",
-              "id": "heading-3",
-              "children": []
-            },
-            {
-              "index": 5,
-              "level": 2,
-              "name": "– – –",
-              "id": "heading-4",
-              "children": []
-            }
-          ]
+          "children": []
         }
       ]
     },
@@ -270,29 +134,7 @@
           "level": 1,
           "name": "Kapitola 4 Noční",
           "id": null,
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "– – –",
-              "id": "heading",
-              "children": []
-            },
-            {
-              "index": 2,
-              "level": 2,
-              "name": "– – –",
-              "id": "heading-1",
-              "children": []
-            },
-            {
-              "index": 3,
-              "level": 2,
-              "name": "– – –",
-              "id": "heading-2",
-              "children": []
-            }
-          ]
+          "children": []
         }
       ]
     },
@@ -312,15 +154,7 @@
           "level": 1,
           "name": "Kapitola 5 Let",
           "id": null,
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "– – –",
-              "id": "heading",
-              "children": []
-            }
-          ]
+          "children": []
         }
       ]
     },
@@ -340,29 +174,7 @@
           "level": 1,
           "name": "Kapitola 6 Sovy",
           "id": null,
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "– – –",
-              "id": "heading",
-              "children": []
-            },
-            {
-              "index": 2,
-              "level": 2,
-              "name": "– – –",
-              "id": "heading-1",
-              "children": []
-            },
-            {
-              "index": 3,
-              "level": 2,
-              "name": "– – –",
-              "id": "heading-2",
-              "children": []
-            }
-          ]
+          "children": []
         }
       ]
     },

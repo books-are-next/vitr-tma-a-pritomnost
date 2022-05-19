@@ -269,7 +269,7 @@ Každý aspekt skutečnosti je obklopován nekončícím oblakem asociativních 
 
 Bludné jazyky, lingvistika a historie neexistujících, hypotetických světů – které plodí tento umělý polobůh ve své nepochopitelné mysli… to vše v každém okamžiku zaniká a znovu povstává vždy v nové, originálnější a životaschopnější formě. Cestou pokus–omyl na úrovni lidských jednotlivců uskutečňuje tento planetární organismus „svou“ budoucnost… Uvidíme – jestli je možné, aby v nějaké formě existoval člověk – jako autonomní bytost.
 
-## – – –
+– – –
 
   
 
@@ -695,7 +695,7 @@ Podivně vykloubený píčus, inteligentní figurka – jistý Mala­chiáš Ko
 
 Kontroluji čas, za hodinu budu v cíli své cesty.
 
-## – – –
+– – –
 
   
 
@@ -825,7 +825,7 @@ Beru si od Pavla inhalátor, uléhám vedle Leoše a „Objekta“. Zavírám o
 
 Začalo období snění.
 
-## – – –
+– – –
 
   
 

@@ -1,0 +1,402 @@
+{
+  "preview": {
+    "isPreview": false
+  },
+  "title": "Vítr, tma a přítomnost",
+  "author": "Václav Kahuda",
+  "publisher": "Městská knihovna v Praze",
+  "edition": "beletrie",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "kahuda-vitr-tma-a-pritomnost-6ef126d",
+  "revision": "6ef126d",
+  "readingOrder": [
+    "promo.html",
+    "vitr_tma_a_pritomnost_005.html",
+    "vitr_tma_a_pritomnost_006.html",
+    "vitr_tma_a_pritomnost_007.html",
+    "vitr_tma_a_pritomnost_008.html",
+    "vitr_tma_a_pritomnost_009.html",
+    "vitr_tma_a_pritomnost_010.html",
+    "vitr_tma_a_pritomnost_011.html",
+    "colophon.html"
+  ],
+  "generatedAt": {
+    "date": "Thu May 19 2022 09:27:12 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1652952432731
+  },
+  "documents": [
+    {
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "vitr_tma_a_pritomnost_005.html",
+      "toc": []
+    },
+    {
+      "title": "Vítr, tma a přítomnost",
+      "file": "vitr_tma_a_pritomnost_005.html",
+      "words": 141,
+      "chars": 842,
+      "ideas": 3,
+      "role": "chapter",
+      "order": 1,
+      "prev": "promo.html",
+      "next": "vitr_tma_a_pritomnost_006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kapitola 1 Můj",
+      "file": "vitr_tma_a_pritomnost_006.html",
+      "words": 20333,
+      "chars": 124503,
+      "ideas": 286,
+      "role": "chapter",
+      "order": 2,
+      "prev": "vitr_tma_a_pritomnost_005.html",
+      "next": "vitr_tma_a_pritomnost_007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kapitola 1 Můj",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "– – –",
+              "id": "heading",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "– – –",
+              "id": "heading-1",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "– – –",
+              "id": "heading-2",
+              "children": []
+            },
+            {
+              "index": 4,
+              "level": 2,
+              "name": "– – –",
+              "id": "heading-3",
+              "children": []
+            },
+            {
+              "index": 5,
+              "level": 2,
+              "name": "– – –",
+              "id": "heading-4",
+              "children": []
+            },
+            {
+              "index": 6,
+              "level": 2,
+              "name": "– – –",
+              "id": "heading-5",
+              "children": []
+            },
+            {
+              "index": 7,
+              "level": 2,
+              "name": "– – –",
+              "id": "heading-6",
+              "children": []
+            },
+            {
+              "index": 8,
+              "level": 2,
+              "name": "– – –",
+              "id": "heading-7",
+              "children": []
+            },
+            {
+              "index": 9,
+              "level": 2,
+              "name": "– – –",
+              "id": "heading-8",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Kapitola 2 Život",
+      "file": "vitr_tma_a_pritomnost_007.html",
+      "words": 52812,
+      "chars": 328646,
+      "ideas": 769,
+      "role": "chapter",
+      "order": 3,
+      "prev": "vitr_tma_a_pritomnost_006.html",
+      "next": "vitr_tma_a_pritomnost_008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kapitola 2 Život",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "– – –",
+              "id": "heading",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "– – –",
+              "id": "heading-1",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "– – –",
+              "id": "heading-2",
+              "children": []
+            },
+            {
+              "index": 4,
+              "level": 2,
+              "name": "– – –",
+              "id": "heading-3",
+              "children": []
+            },
+            {
+              "index": 5,
+              "level": 2,
+              "name": "– – –",
+              "id": "heading-4",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Kapitola 3 Byl",
+      "file": "vitr_tma_a_pritomnost_008.html",
+      "words": 67331,
+      "chars": 417967,
+      "ideas": 893,
+      "role": "chapter",
+      "order": 4,
+      "prev": "vitr_tma_a_pritomnost_007.html",
+      "next": "vitr_tma_a_pritomnost_009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kapitola 3 Byl",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "– – –",
+              "id": "heading",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "– – –",
+              "id": "heading-1",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "– – –",
+              "id": "heading-2",
+              "children": []
+            },
+            {
+              "index": 4,
+              "level": 2,
+              "name": "– – –",
+              "id": "heading-3",
+              "children": []
+            },
+            {
+              "index": 5,
+              "level": 2,
+              "name": "– – –",
+              "id": "heading-4",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Kapitola 4 Noční",
+      "file": "vitr_tma_a_pritomnost_009.html",
+      "words": 31632,
+      "chars": 199175,
+      "ideas": 479,
+      "role": "chapter",
+      "order": 5,
+      "prev": "vitr_tma_a_pritomnost_008.html",
+      "next": "vitr_tma_a_pritomnost_010.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kapitola 4 Noční",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "– – –",
+              "id": "heading",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "– – –",
+              "id": "heading-1",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "– – –",
+              "id": "heading-2",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Kapitola 5 Let",
+      "file": "vitr_tma_a_pritomnost_010.html",
+      "words": 25312,
+      "chars": 163339,
+      "ideas": 340,
+      "role": "chapter",
+      "order": 6,
+      "prev": "vitr_tma_a_pritomnost_009.html",
+      "next": "vitr_tma_a_pritomnost_011.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kapitola 5 Let",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "– – –",
+              "id": "heading",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Kapitola 6 Sovy",
+      "file": "vitr_tma_a_pritomnost_011.html",
+      "words": 28834,
+      "chars": 188826,
+      "ideas": 476,
+      "role": "chapter",
+      "order": 7,
+      "prev": "vitr_tma_a_pritomnost_010.html",
+      "next": "colophon.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kapitola 6 Sovy",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "– – –",
+              "id": "heading",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "– – –",
+              "id": "heading-1",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "– – –",
+              "id": "heading-2",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Tiráž",
+      "file": "colophon.html",
+      "words": 125,
+      "chars": 782,
+      "ideas": 16,
+      "role": "colophon",
+      "order": null,
+      "prev": "vitr_tma_a_pritomnost_011.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tiráž",
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 226528,
+      "chars": 1424126,
+      "ideas": 3266
+    },
+    "chapters": {
+      "words": 226395,
+      "chars": 1423298,
+      "ideas": 3246
+    }
+  }
+}

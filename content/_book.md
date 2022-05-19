@@ -1,36 +1,38 @@
 ---
 outputs: meta
 slug: book
-
-languageCode: en-US
+contentType: prose
+languageCode: en
 meta:
-  title: "Next-book Boilerplate"
-  author: "Author Name"
-  publisher: mkp
-  published: 2020
-  keywords: []
-  edition: beletrie
+  title: Vítr, tma a přítomnost
+  identifier: urn:uuid:2449ae19-9b8e-442a-9af2-464040781cb8
+  author: Václav Kahuda
+  publisher: Městská knihovna v Praze
+  modified: '2019-10-15T00:00:00.000Z'
 readingOrder:
-  - where-i-lived-and-what-i-lived-for.html
-  - reading.html
-  - sounds.html
-  - solitude.html
+  - promo.html
+  - vitr_tma_a_pritomnost_001.html
+  - vitr_tma_a_pritomnost_002.html
+  - vitr_tma_a_pritomnost_003.html
+  - vitr_tma_a_pritomnost_004.html
+  - vitr_tma_a_pritomnost_005.html
+  - vitr_tma_a_pritomnost_006.html
+  - vitr_tma_a_pritomnost_007.html
+  - vitr_tma_a_pritomnost_008.html
+  - vitr_tma_a_pritomnost_009.html
+  - vitr_tma_a_pritomnost_010.html
+  - vitr_tma_a_pritomnost_011.html
+  - vitr_tma_a_pritomnost_012.html
 tocBase:
-  - link: where-i-lived-and-what-i-lived-for.html
-    title: Where-i-lived-and-what-i-lived-for
-    numberedChildren: true;
-    children:
-      - link: reading.html
-        title: Reading
-      - link: sounds.html
-        title: Sounds
-  - link: solitude.html
-    title: Solitude
+  - id: section-1
+    children: []
+    isSection: true
 static:
   - style
   - scripts
+  - title
   - fonts
-  - images
+  - resources
   - template-images
   - favicon.png
 ---

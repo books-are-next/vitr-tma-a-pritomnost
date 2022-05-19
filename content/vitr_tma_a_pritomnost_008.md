@@ -279,7 +279,7 @@ Když jsem se vrátil do postele, k tomu teplému jadérku v přikrývkách, d
 
 Jenom tak špitla: „To nic, toho si nevšímej… Víš, já jsem šťastná.“ A přivinula si mou ruku na hruď. Přilehl jsem k ní a zezadu ji objal. Usnul jsem v jejích vlasech, dodnes spím a naše srdce srostla a tepou zároveň. Všechno předtím i potom je jenom sen.
 
-## – – –
+– – –
 
   
 
@@ -769,7 +769,7 @@ Bylo to plácnutí. Ale mě zamrazilo v duši
 
 Stal se z něj pouze jakýsi „známý“.
 
-## – – –
+– – –
 
   
 
@@ -819,7 +819,7 @@ Když jsem vyplnil dvě popelnice odpadem, vyplašil celou armádu těžkých ma
 
 Ten „Ezechiel z Osadní“ nebo „holešovický Malachiáš“ – stařec s elektronickým mozkem, to je pro člověka z masa a kostí příliš tvrdá, život krátící bytost.
 
-## – – –
+– – –
 
   
 
@@ -1113,7 +1113,7 @@ Zamyslel se a obličejem mu přelétl stín: „Ještě – ten princip, ktere
 
 Koleje na trati začaly klepat a tikat. Někde v dálce, za ohbím lesnatého kopce zahudral blížící se vlak.
 
-## – – –
+– – –
 
   
 
@@ -2045,7 +2045,7 @@ Jenom takový malý detail – potřebujete k tomu „silnou motivaci“, tzn.
 
 Pravdu měl též jeho autor – starý dvorní rada, který měl rád mladé dívky v rozpuku, přátelil se s chebským městským katem Hussem a vyměňoval si s ním sbírky minerálů… a jenž si dal v den své smrti, oproti radám lékařů – pečenou studenou koroptev a víno.
 
-## – – –
+– – –
 
   
 

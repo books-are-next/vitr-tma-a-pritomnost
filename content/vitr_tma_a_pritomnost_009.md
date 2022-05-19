@@ -101,7 +101,7 @@ Rachotivá krabice mě unáší nočním městem. Spolu se mnou jede parta squat
 
 Spíme všichni – dokud žijem, a probouzíme se, když umíráme.
 
-## – – –
+– – –
 
   
 
@@ -427,7 +427,7 @@ Město jak vzdutá světélkující vlna, miliony let vzdutá v krajině zvrás
 
 Voláme do tmy: „Jsme písnička, jsme pohádka!“ A v nitru se ptám, zdali si nás někdy, po staletích, někdo – potichu zazpívá.
 
-## – – –
+– – –
 
   
 
@@ -615,7 +615,7 @@ Nepomohly varovné telegramy britské „Železné lady“ Thatcherové, francou
 
 Tahle šachová hra Rusů skončila jediným výsledkem. Za „televizní“ porážkou je obrovské ekonomické a společenské vítězství. Jejich vysoce motivovaní lidé jsou všude ve světě. Kupují firmy, mediální koncerny a hokejové kluby. Už se nemusí železnými tanky, ale nezměrnými finančními fondy, které se potichu desítky let budovaly v Evropě a Spojených státech. Po několik generací těžce zkoušené Rusko vypustilo před dvaceti lety desítky tisíc lidí do světa a oni teď tento starý svět, spolu s Čínou, Indií, Brazílií, pomáhají držet na nohou. Všichni zainteresovaní o tom vědí, a proto o tom mlčí. Každý ovšem – z jiných důvodů.
 
-## – – –
+– – –
 
   
 

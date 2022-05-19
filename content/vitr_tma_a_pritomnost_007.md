@@ -63,7 +63,7 @@ Nakonec mě pohltil zášleh hluboké potřeby chránit samotné nitro mé osobn
 
 Posílám do noci tato slova: Říkali mu od dětství: Jsme – Člověk. A zvedali k němu krutou zvířecí tvář. Lstivýma očkama pátrali, zdali jim naletěl… hledali v jeho bezelstném obličeji charakteristické známky, že tu jejich lež – jim „sežral“. Z nějakého, možná i jim neznámého důvodu potřebovali – aby jim věřil. Říkali: To je život. A vypadalo to, jako když smečka hyen se rve o mršinu. Vytáhli mordu z útrob mrtvoly a s ještě zkrvavenou tváří se pokusili o úsměv. To bylo to nejhorší.
 
-## – – –
+– – –
 
   
 
@@ -157,7 +157,7 @@ Blátotlačka volky nevolky mustroval se k odchodu. Nechtělo se mu, ale už se
 
 Tančíme s Luisou v srdečním rytmu, přidala se k nám Luisina známá, zpěvačka. Bulharka původem, domnívám se. Tančí teď spolu, ty dvě samice, jen se tak pohupuju a dívám se, jak se vlní ty dívčí boky. Okolo stárnoucí třicátníci, osamělí chlápci, vzývají kapelu „hrozením“. Prohlížím si hudební těleso, ty dva nehybné muže v čínských mandarínských maskách, stojící u svých stříbrných note­booků. Většina obecenstva je stržena rytmem a někteří jedinci se drží reprobeden a vřískajíce, neuvěřitelně rychle pohazují a vibrují hlavou… Další, jako já, jen tak se kymácejí v tmách a je jim dobře…
 
-## – – –
+– – –
 
   
 
@@ -231,7 +231,7 @@ Nové základy experimentální psychologie od Břetislava Kafky, opravené a r
 
 A „Jařmo“ dostává od dnešního dne jméno „Línání“, když je to taková hajtra stará, k neutahání. Co proboha může mít takřka osmdesátiletý syn jednoho gestapáckého udavače, jakou může mít cenu pro dnešní garnituru? A jak, jestli vůbec, s tím souvisím já?
 
-## – – –
+– – –
 
   
 
@@ -297,7 +297,7 @@ Přesně jsem si vzpomněl na ten temnej stín tenkrát v Béďově tváři. Na
 
 Nyní, takřka po deseti letech, cítím, že mám mandát. Nebude to pouhá zvědavost. Cítím sílu pro přijetí vyšší pravdy… A nebudu „meč spravedlnosti“.
 
-## – – –
+– – –
 
   
 
@@ -1777,7 +1777,7 @@ Alain Delon se zvednul a položil na stůl stovku, prstem ukázal číšníkovi
 
 Vůně tabáku a nějaké kolínské pominula tak náhle, že něco v Láďovi by se za tím nejasným pocitem, za tím příjemným hlasem rozutíkalo ještě dnes.
 
-## – – –
+– – –
 
   
 

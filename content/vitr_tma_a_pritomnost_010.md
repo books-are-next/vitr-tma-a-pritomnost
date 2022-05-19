@@ -461,7 +461,7 @@ Okamžitě po vyslechnutí záznamu (fotografické a video soubory jsem ani neo
 
 Do prázdné flešky jsem „nalil“ tolik gigabajtů filmů, kolik se do ní vešlo – abych deštěm nových dat zahladil všechny „stíny“.
 
-## – – –
+– – –
 
   
 

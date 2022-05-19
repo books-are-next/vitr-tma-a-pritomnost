@@ -1109,4 +1109,4 @@ Jsme synové Anděla Páva.
 
 Ptáček sedí v hnízdě. Na vrcholku stromů. V hlubokém lese mezi vesmíry… Jeho temné oko se třpytí, peří mu čechrá vanoucí dech čiré, nepojmenovatelné lásky.
 
-Praha 2012
+_Praha 2012_

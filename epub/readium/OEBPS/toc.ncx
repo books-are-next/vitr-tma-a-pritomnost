@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd"><ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta content="urn:uuid:2449ae19-9b8e-442a-9af2-464040781cb8" name="dtb:uid"/>
+    <meta content="1" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Vítr, tma a přítomnost</text>
+  </docTitle>
+  <docAuthor>
+    <text>Václav Kahuda</text>
+  </docAuthor>
+  <navMap>
+    <navPoint id="navpoint1" playOrder="1">
+      <navLabel>
+        <text>Kapitola 1 Můj</text>
+      </navLabel>
+      <content src="Text/vitr_tma_a_pritomnost_006.xhtml#toc_marker-1"/>
+    </navPoint>
+    <navPoint id="navpoint2" playOrder="2">
+      <navLabel>
+        <text>Kapitola 2 Život</text>
+      </navLabel>
+      <content src="Text/vitr_tma_a_pritomnost_007.xhtml#toc_marker-2"/>
+    </navPoint>
+    <navPoint id="navpoint3" playOrder="3">
+      <navLabel>
+        <text>Kapitola 3 Byl</text>
+      </navLabel>
+      <content src="Text/vitr_tma_a_pritomnost_008.xhtml#toc_marker-3"/>
+    </navPoint>
+    <navPoint id="navpoint4" playOrder="4">
+      <navLabel>
+        <text>Kapitola 4 Noční</text>
+      </navLabel>
+      <content src="Text/vitr_tma_a_pritomnost_009.xhtml#toc_marker-4"/>
+    </navPoint>
+    <navPoint id="navpoint5" playOrder="5">
+      <navLabel>
+        <text>Kapitola 5 Let</text>
+      </navLabel>
+      <content src="Text/vitr_tma_a_pritomnost_010.xhtml#toc_marker-5"/>
+    </navPoint>
+    <navPoint id="navpoint6" playOrder="6">
+      <navLabel>
+        <text>Kapitola 6 Sovy</text>
+      </navLabel>
+      <content src="Text/vitr_tma_a_pritomnost_011.xhtml#toc_marker-6"/>
+    </navPoint>
+  </navMap>
+</ncx>

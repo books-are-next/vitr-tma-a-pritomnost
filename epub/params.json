@@ -190,8 +190,7 @@
           }
         ]
       }
-    ],
-    "replacements": []
+    ]
   },
   "epub": {
     "metadata": {
@@ -199,7 +198,7 @@
       "identifier": "urn:uuid:2449ae19-9b8e-442a-9af2-464040781cb8",
       "author": "Václav Kahuda",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2019-10-15T00:00:00.000Z"
+      "modified": "2019-10-14T22:00:00.000Z"
     },
     "chapters": [
       {
@@ -334,10 +333,7 @@
       "para-style-override-4",
       "para-style-override-5"
     ],
-    "github": {
-      "user": "books-are-next",
-      "repo": "vitr-tma-a-pritomnost"
-    },
-    "generatedAt": 1652952368026
+    "github": null,
+    "generatedAt": 1653403457709
   }
 }

@@ -9,7 +9,7 @@ Redakce Slávka Járová
 Vydala Městská knihovna v Praze  
 Mariánské nám. 1, 115 72 Praha 1  
 V MKP 1. elektronické vydání  
-1. vydání z 19. 5. 2022.
+1. vydání z 25. 5. 2022.
 
 ***
 

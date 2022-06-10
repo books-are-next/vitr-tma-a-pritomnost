@@ -3,17 +3,23 @@ title: Kapitola 5 Let
 contentType: prose
 ---
 
+<section>
+
 Je noc. Blahodárná, životodárná tma – jsem plný štěstí. Tělo je nasycené melatoninem. Dlouhé hodiny spánku, celý terapeutický týden mne prostoupil touto zárodečnou látkou… Jsem plavá bestie a budu rodit sny.
 
 Po návratu z Lisabonu, kde jsem zažil šokový stav přechodu myšlení na jinou energetickou úroveň, jsem opravdu týden spal… Jen jsem se občas vzbudil, napil se a vyprázdnil… něco lehce pojedl. Za půlnočních šťastných chvilek si uvařil čaj a bezmyšlenkovitě (v hlavě aktivní, rozsáhlé sny – lidi a města) čekal, až se výluh zbarví do rudohnědých sytých tónů… Seděl jsem u malé modré lampy a díval se, jak z šálku stoupá pára… V těch chvílích jsem měl v sobě celé vesmíry a množící se mladé civilizace… (Osamělé postavy čekaly za nekonečného deště na nárožích, až pojede něco jako tramvaj, jiskr­nýma očima ohledávaly stinné kouty – právě zde probíhal válečný konflikt… Jinde zas ženy – samice inteligentních bytostí – kráčely jakoby sivým, zrnitým světlem mezi alejemi strnulých soch… tam už bylo po válkách, atomová minulost… a tichá chudoba. Pod vyrudlým pláštěm, v štíhlém těle skrývaly hluboko v sobě ukrytou, ale již rodící se budoucnost… explozivní sílu života.) Nyní vyzařuji černé světlo, tepelné vlny nově nabité energie.
 
-  
+</section>
+
+<section>
 
 Stejně jako se rodí uvnitř ženy nový život, a nejprve ten shluk buněk není podoben ničemu živému… a po několika týdnech nabere děsivou podobu všech evolučních stadií vývoje (má žábry jako ryba, ploutve, zobák – dlouhý svinutý ocas jako ještěr, čtyři tlapy) a posléze se uprostřed toho „mixu“ zapne příslušná sekvence genů DNA a na jednom místě nakyne veliký mozek a dva temné zárodečné útvary očí pošlou do nitra mladého mozku první signály z „rudé tmy“ uvnitř dělohy. Ty první podněty a emocionální záplava vzruchů přicházejících z těla matky – dávají vzniknout prvním pralesům prořezávajících se neuronů, budují se základní sítě a komunikační kanály.
 
 Stejně jako nový život v samičce, tak u mne se narodila myšlenka – ulovit si „jazyka“… Jít do přímé akce a přeskočit tu hradbu informačních bariér, které okolo sebe buduje tenhle podivný tmavý svět… hluboký oceán příšer, na jehož hladině pluje „naše“ rozsvícená lodička.
 
-  
+</section>
+
+<section>
 
 Je doba popůlnoční. Obrazovka monitoru, tapeta na ploše (kterou je satelitní snímek planety Země za ranního rozbřesku, pohoří meruňkově ozářených mračen nad ještě spící modrou tmou kontinentů, moří a ostrovů) – vypadá jak okno hvězdoletu a hučení ventilátorů od komputeru simuluje hluk iontových motorů… Za chvíli přistanu. Za hodinu za dvě se zvednu a půjdu vyhledat pomocníka, bez kterého se nemohu pustit do tohodle dobrodružství.
 
@@ -45,11 +51,15 @@ Na případu P. lze dobře zobrazit paradox – pokud je osobnost P. hodnocen
 
 Vypracoval: advocatus diaboli, angelus procurator, generátor jsoucna a místodržitel Galaktického souručenství pro okrsek – časoprostorové doupě 14820/G, mjr. V. Kahuda, K.s.j.CH.N.Š.t.s.t.m.d.a.n.P.n.Dr.a.n.ThDr.Mons.s.m.m.etT.Pí.m.v.H.R.S! (Kdybych si jako choudě nehonil šulína, tak sém to moh dotáhnout ajki na panáčka, na dochtořa, aj na farářa sém mohól mysléť.) a (Ty píčo, mám v hlavě radar smrti!)
 
-  
+</section>
+
+<section>
 
 Usmívám se té dětské naivní rozpustilosti, kterou jsem disponoval ještě před pár měsíci… Od té doby se stalo tolik, že to nezvratně postihlo mou schopnost se bezstarostně radovat… Takřka u všeho teď cítím spojitost, logickou anebo symbolickou, což je ještě mnohem víc – než prostá příčina a následek… Sebemenší věc, událost koření v nepředstavitelně dlouhé, větvící se historii tohoto vesmíru.
 
-  
+</section>
+
+<section>
 
 Ještě se na internetu ujišťuji, že vyhlídnutý objekt se vyskytuje na stále stejné adrese. Do mojí schránky občas přichází z jednoho amerického serveru přeposlané zprávy – které se tváří jako nevyžádaný spam. Ty indiferentní nabídky na slevové kampaně mají ve jméně odesílatele předem dohodnutý kód, kterým je právě ta samotná e-mailová adresa… Pro mě to znamená, že můj kontakt na ministerstvu zdravotnictví kontroluje platby za lékařskou péči zdravotní pojišťovně – tzn. sleduje lékařské úkony fakturované na rodné číslo pacienta.
 
@@ -57,7 +67,9 @@ Nikdy jsem nečenichal v místě trvalého bydliště dotyčné osoby… Jenom 
 
 Když jsem posléze sondoval, jak to vypadá s jeho zdravotním stavem, můj kontakt zjistil, že dotyčný leží v Ústřední vojenské nemocnici a poskytují se mu lékařské úkony – z kterých bylo jasné, že na tomto světě už dlouho nezůstane… Onkologická udržovací léčba pro pacienty v terminálním stadiu nemoci má své typické charakteristiky, které rozpozná z odborné hantýrky i laik.
 
-  
+</section>
+
+<section>
 
 Tma v korunách staletých akátů je rozbouřena tichým měsícem. Jeho žlutý terč v roztrhaných mracích, jež plovou po hladinách vzduchu… ten těžký matný svit vyvolal hejna skvrnitých stínů a prostranství před domem vypadá jak dýchající bok leoparda.
 
@@ -67,7 +79,9 @@ Stojím nad záchodovou mísou a hledím ven úzkým okénkem. Malý pavouček 
 
 Když jsem asi po hodině šel opět chcát, byl v pavučině tučný, nasycený pavouk s lesklým zadečkem jak olověný brok – a dole na parapetu ležela dutá, prázdná moucha… Celou ji do sebe přečerpal.
 
-  
+</section>
+
+<section>
 
 Narychlo si ověřuji údaje na síti. Než půjdu za šíleným psychologem P., musím mít ucelenou představu, jak zformuluji svou nabídku.
 
@@ -81,11 +95,15 @@ Ihned po intervenci v roce ’68 se začaly budovat nové sítě. Sověti se za
 
 „Kyklop“ posléze sehrál svou roli jako mnoho jiných jeho souvěrců – pod plnou kontrolou zpravodajské služby nabalil na sebe hejno kriminálních živlů a vyrazil – jako „mafián“ na Západ. Ty neuvěřitelné objemy špinavých peněz, které vypral, mu určitě dostatečně přispěly ke státnímu vyznamenání.
 
-  
+</section>
+
+<section>
 
 Vyhledávač mě neomylně vede přes jméno jednoho zmrda, který coby kriminální osoba obchodoval s krví důchodců, vozil to na Západ a tam byl označen jako – persona non grata… To jméno mě vede k přehlídce ksichtů zainteresovaných na zpravodajské operaci na vysoké škole v Plzni. Pročítám si jednotlivé výpovědi aktérů a s pomocí životopisných údajů vyhledaných novináři si vytvářím charakteristiky. Milovník mývalů (kteří rychlýma, obratnýma ručičkama oplachují vše, co se dá sežrat), vousatý podivín, hovoří podivně klidně, lehkomyslně lže a vymýšlí si ve velkém stylu… Zlověstná nevinnost ho prozrazuje. Byl informovanou figurou v připravené hře… podařilo se zkorumpovat desítky státních úředníků, politických děvek a policejních důstojníků… Byli takto uloveni a po následně řízené kompromitaci – jsou vydíratelní. Jsou „na prodej“… Motorem jednání všech zúčastněných je blbecká ješitnost. Desítky k smrti nudných, předvídatelně jednajících, jednoduchých, ambiciózních mutantů… touží vidět před svým jménem titul JUDr. Dnes – kdy takřka každá „hajzlbába“ má titul magistry sociálních věd.
 
-  
+</section>
+
+<section>
 
 Pomalu couvám z té nekonečné přehlídky lidských nul. Nesmím si otrávit vnitřní prostředí… Beru poznámkový blok a fialovou (Bože – to je barva nádherná a tajemně zneklidňující!), magickou fialovou barvou škrtám neproduktivní linie svých zámyslů.
 
@@ -97,7 +115,9 @@ Probrala pomalu ty karty a nechala stranou dvě černobílé mužské tváře�
 
 Utvrdilo mě to v záměru jít za tím jménem, které je uvedeno vysoko ve struktuře zpravodajské služby a jež je podivuhodně takřka o dvacet let mladší… Ovšem – okolo něj bude sršet nebezpečí.
 
-  
+</section>
+
+<section>
 
 Když jsem kroužil okolo toho jména a snažil se dohledat maximum informací, nakonec jsem z obchodního rejstříku získal jeho rodné číslo. Byl uveden ve statutárních orgánech firem, které už dávno zanikly, anebo se změnilo jejich představenstvo a dozorčí rady… S rodným číslem byla již snadná práce – přes databáze zdravotních pojišťoven.
 
@@ -117,7 +137,9 @@ Po letech jsme ho potkali s „Mařenou“, vysokým činovníkem Socialistick�
 
 Stáli jsme u autobusové zastávky na Spořilově – na sídlišti, které začátkem šedesátých let začali budovat vězni na popud mírně reformního ministra vnitra Rudolfa Baráka. Většina mých spolužáků měla za otce pracovníky ministerstva vnitra… Po letech jsem si s nikým z těch zúčastněných neměl opravdu co říct – trápily je jiné starosti a přání.
 
-  
+</section>
+
+<section>
 
 Ještě mi zůstává „Mařena“… Na obrazovce se mi seřadila jména, která se vážou k tomu ráčkujícímu snaživci, všechny kliknutím posílám do blahodárného zapomnění: soudce, který společně s bývalými i činnými policisty založil gang vymahačů peněz, terorizující prostředí podnikatelské sféry (zločinného spolčení)… lidé ze zpravodajských struktur a jejich ovládnutí firmy zabývající se přepravou a prodejem ropy… doktůrče „neurochirurg“ – filcka na ministerstvu obrany… potom jedna figura z Třince, majitel železáren a filmového studia. (Béďa mi popsal barvitou minulost tohoto figuranta, bílého koně Rusů – celé to je takový pseudoliberální, „pravicový“ směr, jedna z odnoží rozvětveného karcinomu uvnitř naší společnosti. Sahá až k prezidentovi a bývalému předsedovi vlády, jde o několik set lidí uvnitř pravicových stran – druhou „pseudolevicovou“ politiku reprezentují korupčníci typu zmaštěnce z RaJe a zakladatele rodiny „Psů“.)
 
@@ -127,11 +149,15 @@ Kolik lidí by se muselo zlikvidovat, odstavit a „přebourat“ – než by 
 
 Ty nejlepší skutečnosti v přírodě – jsou krásné, elegantně jednoduché. Toho se budu držet.
 
-  
+</section>
+
+<section>
 
 Myslím na Hvězdoně Cíglera, jehož písně mi vzrušivým, prorockým hlasem zpíval matematik a básník Richard. Vyprávěl, jak ten krásný, citlivý silák nemohl v emigraci žít. Jak ho to umořilo – to odtržení od živého prostoru řeči. Ta něžná duše odlétla a příšery se dál svíjejí v blátě Země.
 
-  
+</section>
+
+<section>
 
 Ještě hodina mi zbývá, než se vydám nočnímu ulicemi za šíleným psychologem P. Noční herny – to bych tedy opravdu nečekal, je to „ušlechtilé“ ztroskotání… když přihlédnu k dosavadním životním osudům P. Ale jako se to stalo již mnohokrát, tento „terénní“ výzkum bude mít možná publikovatelný výstup. Persona non grata v odborných kruzích teoretiků – ale má dost čtenářů a přátel u kolegů s klinickou praxí.
 
@@ -139,19 +165,25 @@ Beru do ruky sešit a škrtám další neproduktivní linii… Při toulkách p
 
 Neobyčejně mě zaujalo vystoupení toho pro mne dosud neznámého analytika… Když mi vyhledávač Google osvětlil, že je to pracovník Ústavu mezinárodních vztahů, přednáší na Vysoké škole ekonomické, dříve byl na Generálním štábu armády, ještě předtím zástupcem vojenského přidělence na ambasádě v Paříži – ihned mi bylo vše jasné… Tohle je člověk praxe, od něj se očekávají informace o pravdivé situaci v místě působení. Na základě svých zkušeností je dnes schopen podávat validní analytické prognózy.
 
-  
+</section>
+
+<section>
 
 Když jsem už jednou navštívil webové stránky zmíněného ústavu – který pracuje jako poradní orgán pro ministerstvo zahraničí… podíval jsem se, kdo všechno tam našel zaměstnání, jaké mají odborné publikace atd. K svému překvapení jsem narazil na dvě osoby, které znám.
 
 Inteligentního dobráka, posledního doktora rudé filozofie, který absolvoval katedru marxismu-leninismu, znám dlouhá léta. Tento „vědecký komunista“ je dnes při kavárenských debatách překvapivě veliký zastánce všech válečných intervencí Spojených států severoamerických… Dodnes potichu bádám – jestli to je primitivní „Emanuel-Moravcův komplex selhání silné ruky“, nebo mám tu čest s mistrným konspirátorem, který pod maskou laciného a proklamativního hurá-kamarádství potají – jak pilná včelka uskutečňuje hluboký záměr na eskalaci chaosu ve světě a tím vyvolané angažovanosti USA na ochranu „amerických zájmů“ – které nakonec povedou ke ztrátě prestiže a hospodářskému vysílení této osamocené, osiřelé supervelmoci.
 
-  
+</section>
+
+<section>
 
 Je mi jasné, že za tím odborníkem z vojenské rozvědky, za tím aktivním profesionálem – nemůžu ve své dnešní situaci jít. Nejspíš by neměl jediný důvod mi věřit. A ještě by to mohl považovat za provokaci… Možná dříve, na začátku, kdybych měl nějaký smysluplný důvod – konzultovat svůj záměr, subjektivní pohled na současnost, pokusit se o popsání některých oblastí v jejich komplexitě. Ale dnes jsem již „dole“, hluboko uvnitř, a události na hladině jsou již dávná historie. Nyní mne zajímá zárodečná tma, kde se rodí budoucnost.
 
 Obrátit se na další personu, jít za vědeckým komunistou, „přítelem USA“ – to je též zcela nemožné… Z podstaty věci by mi nic smysluplného neřekl, i když mě léta zná. Naopak – stal bych se objektem jeho vykulené, huhňavé laviny otázek a vyděšené pozornosti. Bernardýn by měl na čele hlubokou vrásku.
 
-  
+</section>
+
+<section>
 
 Nalezl jsem ovšem jednu osobu, brýlatého třicátníka – hlavu má jak vajíčko. Těchto brejlatých plešingrů jsou poslední dobou silné tisíce, množí se ve státní správě, ve firmách. Předčasně plešatí, staří-mladí rostou jak houby po dešti. Kariérní úředníci vykukují zpoza každého kancelářského stolu, zaměnitelní a nevýrazní, vyrostlí ve tmě protekcí a vlhku úplatků – jak hlíva ústřičná.
 
@@ -161,13 +193,17 @@ Ve tváři má vepsány rysy poznaného strachu, tam někde bude uložena vzpom�
 
 Ten vajíčkový, vyblitý obličej mi nedává spát. Cosi, nějaká matná vzpomínka – před lety. Jdu se podívat do krabice zastrčené v šupleti pod kanapem. Jsou tam bez ladu a skladu naházené stovky CD nosičů a pravěkých disket. Hledám jedno CD, které mi kdysi nahrála Luisa, má krásná Ištar… V jednom balíku disků jsem konečně nalezl charakteristický popisek. Cítím se pojednou starý, docela dobře se rozvzpomínám, co na těch fotografiích najdu.
 
-  
+</section>
+
+<section>
 
 Nevzpomínám si přesně, je to už nejmíň sedm nebo osm let. Luisa tehdy přicházela s tím, že se do ní postupně zamilovaly asi tři lesby, výtvarnice, spisovatelka a podnikatelka. K tomu se ještě přidala skupina homosexuálů. Ti všichni dohromady a každý zvlášť především si nebohou Luisu vybrali (kňučeli), aby dělala aktivní, ofenzivní ďáblici v jejich sexuálních hrách. Lesby chtěly přísného pána (ovšem bez živého ptáka a hlavně bez samčích koulí a příslušného ega) a teplí chlapci zas požadovali hodnou, ale autoritářskou tetu (též pokud možno s psychickým, virtuálním čurákem)… Byla to taková „elektrikářská“ anarchie. Skrumáž opačně zapojených zástrček a zásuvek.
 
 Všechno to byli neobyčejně inteligentní, kreativní lidé. S některými Luisa navázala letitá přátelství… ale tehdy to prostě bylo tak. Spiknutí „slaboučkých“. Pasivní sadisté vycítili, že je zde živá, krásná duše. A začali se okolo ní rojit.
 
-  
+</section>
+
+<section>
 
 Luisa – kamarádka z časů před stvořením světa, je čistá jak nový, právě zhotovený japonský meč.
 
@@ -175,7 +211,9 @@ Pamatuji se dobře na naše hry – kdy se mi tepny rozbušily v celém těle 
 
 Ach Bože! Její krásná duše a podivuhodná, předvěká mysl! Šechína vycházející z nebes – za rozbřesku a za soumraku, kdy se podle knihy Zohar otvírají brány světů.
 
-  
+</section>
+
+<section>
 
 S dojetím a radostí, že jsem mohl poznat tu bytost… otvírám zoner a hledím na fotografické soubory… Ano – je zde, „Vajíčko z Yaleu“ dělá podnožku pro nohy. Luisa mi vyprávěla, že Vajíčko má nejraději, když je ponižován a musí „pod trestem smrti“ dělat třeba žehlicí prkno (u toho řehtá jak kůň), odkládací servírovací stolek (hodiny klečí na zemi a vzdychá)… když přijde na konfiguraci „odpadkový koš“, většinou to již nevydrží a předem požádá, aby byl pevně svázán – potom (v hubě špinavé dámské ponožky) dutě řičí a zmítá sebou, buší plešatou hlavou do koberce… Když jsem se ptal Luisy, zdali necítí strach při psychických operacích, kdy z inťouše vylézají potlačené obsahy, řekla mi – že ne, on je jinak velice hodný a pomáhá jí s instalací programů do počítače, dokonce jí píše speciální software, který potřebuje pro svou práci… Je to forma přátelské reciprocity… Pečlivý a úzkostlivě čistotný brejloun se zmítá na podlaze a Luisa si mezitím přátelsky povídá s jeho tichou, drobnou ženou.
 
@@ -185,7 +223,9 @@ Když přijde čas – začne mamlas hýkat a řvát do roubíku. Má naběhl�
 
 Když se vrátí, je plný osvobozené energie, nainstaluje Luise do komputeru nový antivirový program a užuž si ťuká na stříbrné náramkové hodinky a významně zvedá obočí na svou hodnou, podřídivou ženu: „Musíme letět!“
 
-  
+</section>
+
+<section>
 
 Se zájmem jsem ztotožnil tehdejšího obsedantně-kompulzivního pečlivku s nynějším váženým docentem, jehož publikační činnost v odborném tisku je podivuhodně plodná… Luisa mi tehdy chtěla ukázat videozáznam, který pořídila na mini-DV, ale s díky jsem odmítnul. Stačilo pár fotografií a její sugestivní vyprávění – za žádnou cenu nejsem ochoten pustit si do hlavy zvuky a pohyblivé obrazy cizího, nezajímavého života.
 
@@ -197,7 +237,9 @@ Je to dobrý intelektuál s vlažnou duší – já ale dnes potřebuju ulovit
 
 Škrtám tohle jméno, mažu ho ze své paměti a cédéčko pečlivě ničím, ohýbám ho v kleštích nad plamenem.
 
-  
+</section>
+
+<section>
 
 Se zájmem si ale lustruju jméno nenápadného chlapíčka s hlavou jak vrabčí hnízdo – jistého Jodase.
 
@@ -219,23 +261,31 @@ Celé to je obklopené spoustou chvályhodných aktivit, produkováním koncert�
 
 Všechno to je stejná propagandistická kampaň, jako když NKVD organizovala síť vlivových agentur (nakladatelství a vydavatelství, filmové produkční společnosti, diskusní kluby, vzdělávací a osvětové organizace) – v Německu a v západní Evropě ve dvacátých a třicátých letech.
 
-  
+</section>
+
+<section>
 
 Zajímavé a dojemné je, že jejich aktivitu chápu a jejich cíle – svět bez válek a konfrontací – plně podporuji… Pozoruji s mírnou nechutí tu snahu učinit přicházející neodvratný komunismus, který čeká svět… udělat ho „bezejmenným“, tedy bezkonfliktním a „sexy“… Jsem plně na jejich straně, ale někdo prostě musí říkat tu černou, nepříjemnou pravdu. Ano – i já mám pod kabátem krvavě rudou košili. Stejnou má prezident, ministři vnitra, stejnou nosí všichni disidenti. Stejnou barvu má kardinálský oděv – symbolizuje to jediné, připravenost prolévat vlastní krev.
 
 Musím předat to dědictví – ve slovech předat. Pro ty, kteří jsou jako já – na rozdíl od ostatních vrstevníků používají emocionalitu k čarodějnému umění, které dokáže – oživovat slova… Píšu, zaznamenávám – a doufám, že to komusi neznámému pomůže, neznámo kde a kdy – jako mně pomohly texty starých nežijících mistrů. Já – nehodný tovaryš, odvažuji se psát krutou pravdu.
 
-  
+</section>
+
+<section>
 
 Prezident Pižďuch, Kakala, lidé z rodin okolo pražského centra Charty, a na druhé straně prezident Pytložvejk, obklopený korupčníky a privatizátory, zamaštěnými ideology s ohonem řídkých vlasů, primitivní sebrankou a rovněž figurami z virtuálního „odboje“… v podstatě to jsou všechno mrzáci… A jedině tito lidé jsou schopni se prodat. Jejich osobní ješitnost nemá hranice.
 
 Možná to tak bylo vždycky… Nevím.
 
-  
+</section>
+
+<section>
 
 Smutně se usmívám, když zahlédnu na jedné fotografii, ve skupině „zazimovaných“ představitelů Strany zelených (systematicky rozložené zevnitř nevěrohodnými, navzájem znesvářenými figurami a zdiskreditované svojí spoluprací s korupční pravicovou vládou), zahlédnu vedle velkého, vlasatého a fousatého ryšavce (přítele bělovlasého milovníka mývalů z plzeňské fakulty práv), zahlédnu starou Leontýnu. Tento ženský démon, liška Leontýna, má za sebou nejméně čtveřici mrtvol mužů, kteří s ní přišli do bližšího kontaktu. Stará spolupracovnice zpravodajské služby z minulého režimu, jezdící po světě s výstavami a expozicemi, nyní participuje někde na Praze 3 ve výboru této nešťastné strany. V nejbližším století se nevyplatí zeleným – kteří mají tak pěkné ideály a tak neschopnou garnituru neovládající základní mechanismy politického boje – určitě se nevyplatí dávat jim svůj hlas.
 
-  
+</section>
+
+<section>
 
 Půl hodiny a půjdu do tmy, vyhledám příšeru – psychologa Pavla. Ještě mám dost času na své myšlenky… Venku, za opršelým zaprášeným sklem, se dalo do tichého deště. Otvírám okno… Osamělá cikáda cvrčí v křovinách na opuštěném pozemku. Šumění kapek v listí a vůně mokrých ulic pozvolna naplnily pokoj srpnovou nocí. Zamlklá, zadumaná krása zániku – její první kradmé dotyky dávají ochutnat sladký smutek konce léta.
 
@@ -245,7 +295,9 @@ Předevčírem mi volal jeden kamarád. Zašli jsme na pivo… Vyprávěl mi �
 
 Vypráví mi, že v noci poslouchá v rádiu vzpomínky starého severočeského spisovatele. Vzpomíná na mládí prožité v Brně: „… mamička říkala, mamička chtěla, abych byl biskupem.“ Velmi ten pořad vzpomínek doporučuje… Slibuju, že si ho s chutí poslechnu ještě dnes v noci, z internetového archivu stanice Vltava…
 
-  
+</section>
+
+<section>
 
 Když jsem přišel tu noc domů, natáhl jsem se na kanape a do sluchátek pustil vyprávění starého, za mých mladých let známého spisovatele. Hovořil sugestivně o nádheře tehdejších katolických obřadů: „V chrámu, uličkou uprostřed lidmi naplněného kostela kráčela Jeho Eminence, sídelní biskup – okolo ramen bílou kožešinu, měl neuvěřitelně dlouhý fialový plášť, metr ho vláčel po zemi a další metry zvedal vzadu jáhen v bílých rukavičkách… Jako podivuhodný páv.“
 
@@ -261,7 +313,9 @@ Oči přecházejí – když poklekají před oltářem fialoví pávi. Blahosl
 
 Všechno se to odehrálo kdysi dávno, v předaleké galaxii.
 
-  
+</section>
+
+<section>
 
 Jedno léto, vzpomínám, jsem byl na Vysočině u starého přítele. S pejskem Tondou jsme chodili, dva lidští podivíni – na procházku hlubokými lesy. Vedli jsme hovor o mimozemských civilizacích, zkoušeli si představit nesmírné hvězdné vzdálenosti. Na tichých jeleních pasekách jsme leželi v husté trávě a hleděli do nebes, jak plují mraky. Vzpomínali jsme na nebožtíky, které jsme znali z psychiatrických ústavů. Bavili jsme se o ženách, o manželkách přátel a o herečkách. Úporně jsem promýšlel problematiku nadsvětelných rychlostí, možnost cestování mezi galaxiemi… Slunce zapadalo kdesi za hustou stěnou lesa, nad temně zelenou, namodralou travou se rojily večerní mušky a jejich vířivá hejna stoupala do výšky, svítily prozářeny posledními paprsky ve vrcholcích černých smrků. Namodralé kalichy velkých zvonků se tyčily pod převislými větvemi buků a jako pozorné bytosti žhnuly bledým světlem… Zvedli jsme se a pejsek nás vedl dolů z kopce, po cestách okolo pramenišť a potoků, šli jsme na noční koupání.
 
@@ -275,7 +329,9 @@ Když zahlédl jsem nad lučinou zvolna letící tichý stín, pojal jsem obavu 
 
 Tohle je veliká večerní planeta mých vzpomínek. Je plná podzimů a jar, letních nocí a rozbřesků. Jsou tam do sebe zavinuté, nekonečné letopisy radostných chvil a okamžiků štěstí.
 
-  
+</section>
+
+<section>
 
 Dnes je krutá, krásná noc a já nabírám do nozder vůni mokrého asfaltu a očima prohlížím dlouhé koridory pustých, spících ulic. V nastalém tichu, dvě hodiny po půlnoci, za doznívajícího deště, kdy každý plechový okap a každá kanálová mříž rytmicky vyťukávají tekuté rytmy – je možné uchopit základní myšlenky, zárodečné pohnutky měst, pravěké důvody ke vzniku těchto lidských mravenišť.
 
@@ -311,7 +367,9 @@ Mlčky jsme stáli před domem, Pavel se s námi loučil a děkoval. Nechtěl 
 
 Kráčeli jsme tehdy nocí s Emanuelem setmělým parkem na Kampě, po mostě nad černou třpytící se řekou, směrem k Národnímu divadlu. Zlaté zábradlí na střeše, zkroucené girlandy na železných sloupech osvětlení, mohutné tlapy kaštanových listů na Střeleckém ostrově, oslňující záře reflektorů protijedoucích osamělých taxíků, rudé oči říční signalizace na zdymadlech, bílé labutě a ponocující pražští rackové – vše mělo pod svým bytím neklidné vlnění nesamozřejmosti, existence, která je vzácná.
 
-  
+</section>
+
+<section>
 
 Pavel se na mne dívá a cosi hovoří. Přes chrochtání hracích strojů a tlumený zvuk „výtahové hudby“ je mu těžko rozumět. Ukazuje mi na laptopu a komentuje dokumentární film BBC o asistovaném ukončení života někde ve Švýcarsku… S odporem hledím na psychicky a tělesně nemocné lidi, s jistým paušálním soucitem – ale odmítám se dívat dál. Pavlova thanatofilie je, jak vidím, pořád akutní. A nesnížilo ji ani v letošní zimě zahájené užívání antidepresiv.
 
@@ -323,7 +381,9 @@ Pavel mi ukazuje holé, takřka „kriminalistické“ fotografie nahých těl. 
 
 Pavlovo úvodní expozé končí úplnou psychotickou blasfemií… Ječícím hlasem (kácí se u toho, jak skládací metr si lehá náhle na podlahu, leze po čtyřech pod stůl, opět vstává, pláče smíchy) – vypráví mi to dvoumetrové tělo: „Normálně mám erekci, když třeba zahlídnu slavnostní královskou přehlídku, záběry z udělování Oscarů… Posunuly se mi emocionální obsazení základních vzorců sexuálního chování. Včera jsem třeba onanoval u televizních novin. Ve zprávách ukazovali, jak velký černý auto přijelo před nějakej palác – a americkej prezident Obama kráčel po rudým koberci. Normálně, když si třás rukou s ruským premiérem, jsem začal stříkat!“ (Smích a opět letmý pokus svalit se na podlahu herny.)
 
-  
+</section>
+
+<section>
 
 Ztrácím trpělivost, beru ho za loket a tiše, důrazně šeptám: „A co pavilon A1? Jak to tam vypadá?“ Psycholog Pavel se zvedá ze země, oprašuje si puky na kalhotách a ze saka (s koženými chrániči na loktech) sbírá imaginární smítka. „Cóó řikáš?“ ptá se do hlasitého huhňání osiřelých automatů. Chvíli mu trvá, než přeladí ze svých obsedantních témat na tento – bojový úkol. „Zkurvenej schizoid!“ nadávám mu v duchu a nahlas pronáším to tabuizované slovo: „Onkologie, ty píčo! Byl jsi tam, čuráku? Mluvil jsi s ní, ufoune?“
 
@@ -333,7 +393,9 @@ Mrazí mě při těch banálně pronášených, lehce veselých větách… Netu
 
 Náhlý poryv živočišného strachu a úzkosti z nadcházející akce mě odehnaly na toaletu. Blahořečil jsem v té chvíli pozdní pusté hodině a hlukové kulise herních automatů. Vysral jsem snad Empire State Building, opakovaně řvalo splachovadlo. Štětkou jsem pěchoval, rozbíjel tuhá hovna a cpal je do záchodového otvoru… Byl to boj svatého Jiří s drakem.
 
-  
+</section>
+
+<section>
 
 Hlavní důvod, proč jsem ho angažoval (musel jsem nalákat jeho zvídavou mysl – zainteresovat ho na „výzkumu změněných stavů vědomí u nemocných v terminálním stadiu“, požádal jsem ho, aby též zhodnotil míru zasažení kognitivních, tedy poznávacích funkcí mozku při paliativní medikaci opiáty)… skutečný záměr byl: proniknout k nemocnému, popř. do jeho okolí – rodina, známí atd. Krycí legenda – v podstatě žádná, využít skutečné odborné psychologovo vzdělání. Jedná se o výzkum, součást připravované publikace, všechny výsledky budou kvantifikovány do tabulek a grafů, případné kazuistiky budou přísně anonymní.
 
@@ -345,7 +407,9 @@ Okolnost, že by psycholog dokázal navázat blízký kontakt s dcerou nemocné
 
 Kladně zde určitě zapůsobila též okolnost, že Pavel má rád o něco starší ženy, než je on sám. S postupujícím věkem, kdy už překročil čtyřicítku, vyhledává pro nedostatek „vhodného materiálu“ mladší dívky, které ovšem vykazují životní zběhlost, zkušenost s muži, a zároveň nejsou poničené (v morálně-etickém slova smyslu)… Jeden z jeho posledních objevů je dívka s orientálními rysy ve tváři, se zelenýma očima a havraními vlasy. Má doma ochočené potkany a nabídla mu, že pokud chce, udělá mu to umělým penisem. (Vyprávěla též, jak v patnácti, když přišla do Prahy, seznámila se s nějakým profesorem matematiky. Platil jí pravidelné částky a za to požadoval, aby s ním jezdila za město do lesů. Zde, v odlehlých místech brdských vojenských prostorů – kde v hlubokých údolích, uprostřed vysloužilé armádní techniky a pustých betonových bunkrů žije tak výr velký a černý čáp – zde ho přivazovala za úd ke stromům a ponižovala ho. Prý byl velmi spokojený a moc se mu to líbilo. Byl to plachý a jemný člověk.)
 
-  
+</section>
+
+<section>
 
 Do herny teď přišla hlučná společnost mladých lidí. Veselí mladíci a dívky se usadili u několika k sobě sražených stolků, ospalá barmanka se probudila za pultem a začala točit piva a nalévat sklenky vína.
 
@@ -373,7 +437,9 @@ Pavel se chlubí, že zároveň obdržel jako dárek veterinární ane­stetikum
 
 Psycholog mi vypráví, jak jeho kolega nedávno musel řešit událost v jejich léčebně… Někde v regionu se stala dvojnásobná vražda starých manželů. Případ vyvolal pozornost a dokonce byl prezentován v televizi a médiích. Jeden z pacientů léčebny, gay s histrionskými rysy osobnosti, psychotik s maniodepresivním onemocněním – využil chvilkové nepozornosti personálu a dostal se k telefonu na sekretariátu ředitele… Zatelefonoval na policii a přiznal se k té dvojnásobné vraždě. Policie ho odvezla do cely předběžného zadržení. Teprve za pár dní se vysvětlilo, že motivy zločinu neodpovídají osobnosti „podezřelého“, navíc posbíral na uvedenou dobu spolehlivé alibi od ošetřujícího personálu… Když lékař hovořil s příslušným kriminalistou, dozvěděl se, že údajný „vrah“ se choval krajně podivně – při výsleších se neustále dotazoval, zdali nebude „spoután a surově zbit“, a vypadal, že by mu to bylo příjemné. Neustále volal a zakrýval si u toho tvář: „Nebijte mě!“ A opakoval, že se přizná pouze mladému policistovi, kterého zahlédl v pracovně kriminalistů… Rovněž zapůsobilo, když dozorce upozornil na videozáznam z bezpečnostních kamer, které jsou preventivně umístěny v celách předběžného zadržení… Na záznamu bylo vidět, jak maniak prakticky po celou dobu masturbuje a snaží se znehybnit a spoutat. Polohlasem se bránil před vysněnou agresí pohledného „důstojníka“. Šeptal: „Nech mě! Ty nádherný blonďáku!“ Chce být vyslýchán a mučen od krásných mladých mužů v uniformách.
 
-  
+</section>
+
+<section>
 
 Už máme v teoretické přípravě hotovo, a tak jsme se oba uvolnili. Popíjím pivo a hledím do zrcadla, jak se za mými zády pomalu rozchází společnost veselých mladých lidí. Dvě nebo tři náhle osamělé, zbylé dívky pokukují po Pavlovi, hned toho využívá – vesele zahlaholí, zdali si k nim může přisednout, a už bere své elektronické cigarety a notebook a s celou parádou se přesouvá za nimi… Loučíme se letmo a jen se domlouváme na zítřek, kdy mi dá vědět – jak akce dopadla.
 
@@ -383,7 +449,9 @@ V mozku přesýpám těžký štěrk obav a možných komplikací. Mám pocit,
 
 Dopíjím pivo a platím u baru. Jdu do tmy… Do ulic! Do ticha!
 
-  
+</section>
+
+<section>
 
 Stojím na nároží ulic, pár stovek metrů od svého bytu. Hledím na spící průčelí domů, celý blok budov sní. Jen dvě okna svítí. Jsou čtyři hodiny – je ponurá hluboká tma… ale ten uhlový pytel na východě prosakuje zelenavou modří. Pomalu začíná svítat a někdo – silueta, člověk v dálce, na zastávce autobusu, jede do práce.
 
@@ -395,7 +463,9 @@ Ne, okno je mrtvé, závěsy jsou pryč, a dokonce jsou křídla oken otevřen�
 
 Děda umřel! Poslední, co vím, když mi telefonoval zhruba před měsícem – že mu zemřela jeho psice Evička, měla nádorové onemocnění. Chodil k ní zvěrolékař a dával jí injekce. Jednou v noci se vztyčila na pelíšku, zavyla silným hlasem – rozloučila se tak se stařičkým vůdcem jejich dvoučlenné smečky, a odešla z těla.
 
-  
+</section>
+
+<section>
 
 Stojím na nároží ulic, jitřní chlad od řeky táhne podél teplých, létem rozehřátých zdí a protéká přes široká prostranství. Hledím na to otevřené, za dědova života nikdy neumyté a vždy pevně zavřené okno (větral vždy oknem z ložnice, které vede do dvora, do parčíku – koruny lip mu sahaly takřka do postele).
 
@@ -403,7 +473,9 @@ Děda odešel ze života… Někdo jiný odstranil závěsy, odvezl nebo rozřez
 
 Je mi zima, otřásl jsem se. Pustý a holý pokoj hledí do tmy a vypadá jak oční důlek v lebce.
 
-  
+</section>
+
+<section>
 
 Spal jsem takřka celý den. Odpoledne – když slunce obešlo dům a oknem mi začalo svítit do postele… teprve tehdy jsem vstal a se zalepenýma očima se ploužil po bytě.
 
@@ -411,11 +483,15 @@ Venku na ulici rozvláčně rozmlouvali bezdomovci, každý opřený o svůj d�
 
 Než se uvedu do bdělého stavu, tak mi to i se sprchou a dumkou na hajzlu trvá dobré dvě hodiny… Je půl šesté, někdy po deváté zajdu do jedné internetové herny. Pokud vše dopadlo, jak mělo, tak dnes večer dostanu to, co jsem si tak přál – plod ze stromu poznání dobrého i zlého…
 
-  
+</section>
+
+<section>
 
 Podařilo se! Ve 21.15 jsem se napojil v herně na svoji e-mailovou „čistou“ schránku a stáhl balík souborů. Bylo to hotové za pár vteřin. Fleška mě hřeje v ruce, je nacucaná jak zralý lusk. Úplně cítím ty zelené, šťavnaté megabity… Aby se neřeklo, ještě chvíli brouzdám po síti a čtu si titulní stránky internetových deníků…
 
-  
+</section>
+
+<section>
 
 Je noc a mám sluchátka na uších. Káva mi dávno vystydla a já přehrávám záznam hovoru u jednoho nemocničního lůžka… Nejprve je slyšet kroky na chodbě, rozléhající se ženské hlasy, takhle zřetelně hovoří ve zdravotnických zařízeních pouze zaměstnanci. Pacienti a ještě více jejich zaražení, opatrní příbuzní – ti mluví polohlasem… Do hovorů se ozývá hlas Pavla a nějaká žena mu odpovídá (úplně to vidím, zvuky se mi formují do obrazů)… Teď – zaťukání na dveře. Ahój, táto, jak se ti daří… To je dobře… tady bych ti chtěla představit Pavla… Víš? Jak jsem ti říkala, že… Ženský hlas přehlušilo nesnesitelné šustění celofánu a Pavlův hlas mumlá: Tady jsem vám přines, vlastně vám oboum. Ženský smích. Nějaký hluboký, lehce zkreslený, dušný hlas říká: Tak řekni sestře, já tu nic na to nemám – jedině snad bažanta. Smích obou mužů. Prosim tě, tati, šťastně protestuje dcera; je ráda, že otec je při smyslech a dokonce žertuje… Psychologův hlas: Tak snad, já jsem Pavel… Nejasné starochovo zamumlání – vrzání gumových podrážek, zřejmě Pavel přistoupil a podávají si ruce. Můžu trochu pootevřít okno? Venku je docela příjemný, teplý vzduch. To se ptá Pavel. Odkašlání a něco jako mlčenlivý souhlas. Pavel otvírá okno – pak je nesnesitelně dlouhý okamžik, kdy je slyšet, jak šátrá v náprsní kapse po připravené injekční stříkačce. Zvuková kulisa je vyplněná nejasnými zvuky, Pavlovým dechem a chrčivou námahou starce, který jakoby každé nadechnutí musí nejprve opatřit rozpěrou. Venku je krásně, ten srpen se letos podařil, povídá Pavel a podle rachtání poblíž mikrofonu zasouvá použitou stříkačku zpátky do kapsy.
 
@@ -453,7 +529,9 @@ Pro těchhle pár slov, pro tu adresu jsem se umazal zážitkem Pavlova zhroucen
 
 Ve sluchátkách slyším tichý, do sebe se hroutící hlas. Do pokoje vchází plukovníkova dcera a překvapeně se ptá: Co jste to tady prováděli, vy dva? Stařík – teď už opět slaboučký pacient onkologie, žádá dceru o kelímek, že ho tlačí umělé zuby. Potom oznamuje, že se mu chce spát, a opravdu – uprostřed věty na dvě vteřiny zachrápe… Pak se vzbudí a něco zřetelně řekne orientálním, naprosto neznámým jazykem. Pavel i dcera se polekaně ptají, co si přeje, co chce… Ale staroch jen dýchá a něco opět, již polohlasně, mumlá… Zdá se, že hovoří – neexistující řečí! Zřejmě někoho vidí před sebou a – ano… má vidiny a halucinuje nějaké obrazy. Táto, volá polekaná dcera. Pavel vedle ní nesměle volá: Pane plukovníku. Musím se smát a zároveň mi tečou slzy po tváři… Teď je poznat na úlevné reakci obou mladých, že krize (způsobená zřejmě silnou dávkou morfia, které je možná znásobené podpůrným účinkem secatoxinu na neurotransmiter dopamin)… krize pominula. Pavel duchapřítomně rozmluvil plukovníkově dceři, aby zavolala sestru… Na otázku pořád otřesené dcery, jestli otec něco nechce, odvětila bezzubá uslintaná pusinka „…voďu“. Potom Pavlova ohleduplná ruka vypnula záznam.
 
-  
+</section>
+
+<section>
 
 Okamžitě po vyslechnutí záznamu (fotografické a video soubory jsem ani neotevřel – nevím, k čemu by mi to bylo dobré… chci mít ve vzpomínkách tu podobenku pořízenou při jmenování dotyčného plukovníka náčelníkem jednoho odboru I. správy, je tam pětačtyřicetiletý chlap v plné fyzické a psychické síle, jiskří mu temné oči – věřím, že by chtěl, pokud by vůbec připustil, aby někdo jako já znal jeho skutečnou identitu… aby „buzna“ a „inťouš“ si ho pamatoval právě takového – na vrcholu, jako vůdce smečky) jsem sundal sluchátka z uší, smazal obsah flešdisku a znovu ho přeformátoval.
 
@@ -467,7 +545,9 @@ Slunce již začíná hřát a to je teprve osm hodin. Širokým obloukem zatá
 
 V Mikulově nabíráme pár lidí a pak už se spokojeným bručením sjíždí autobus k opuštěnému hraničnímu přechodu.
 
-  
+</section>
+
+<section>
 
 Sedím v autobuse, který míří do Vídně. Vedle na sedadle klimbá vysoká Pavlova postava. Za námi sedí šlachovitý snědý chlapík – nějaký důvěryhodný kontakt, známý „známých“, který se k nám přidal v Brně.
 
@@ -479,7 +559,9 @@ Andulák nám celý večer ukazoval své obrazy a nesnesitelně obsáhlé soubo
 
 Ráno nám ovšem s politováním oznámil, že s námi nemůže odjet do Vídně, jak to původně Pavlovi slíbil – měl zajišťovat naše schůzky… Bohužel má akutní sračku (nad ránem jsem slyšel opakované série nekončících splachování na WC)… Ale nic se neděje, už to zařídil – místo něj pojede s námi jeho známý. Je to „přítel, kterému můžeme důvěřovat“ – nedělá tuhle práci poprvé… Ukázal nám jeho fotku. Bude čekat na autobusovém nástupišti… Ví, jaký bude jeho úkol.
 
-  
+</section>
+
+<section>
 
 Autobus stoupá do táhlých, dlouhých kopců – jsme již na rakouské straně. Do daleka, na všechny strany se rozprostírají nedohledné vinice.
 
@@ -489,7 +571,9 @@ Pavel v nejhlubším stupni zoufalství – „ejakuloval“ ze sebe tuhle rod
 
 Když se v tom záchvatu slabosti rusky vyplakal na plukovníkově rameni – tak vyvolal odezvu, kterou vůbec nečekal… A proto teď jedeme za Tymošou.
 
-  
+</section>
+
+<section>
 
 Od včerejšího Pavlova vysvětlení té divoké chvíle ve vojenské nemocnici se dívám novýma očima na tu inteligentní bytost, která putuje světem, hovoří světovými jazyky – a přeci je nekonečně osamělá. Jinak – a přeci stejnou, neodvratnou mírou je mu cizí tento svět. Stejně jako já se celý život snaží přiblížit domorodcům na této podivuhodné modré planetě.
 
@@ -497,7 +581,9 @@ Za okny autobusu krajina začala opět klesat do nížiny. Rovná silnice protí
 
 Už teď je na terénu vidět, že jedeme po dně pravěkého jezera, obrovské řeky se valily kontinentem, když tál pevninský, kilometr vysoký ledovec. Před Dunajem tu tekl nezměrný, pradávný – bezejmenný Dunaj… To bylo – v období snění.
 
-  
+</section>
+
+<section>
 
 Vienna – projíždíme dlouhé předměstí Floridsdorf. Česká jména na štítech obchodů, jména politiků na plakátech pro nějaké volby… Přejíždíme po širokém mostě zelenavou plochu velkého Dunaje.
 
@@ -515,7 +601,9 @@ Od ještěřího domu je kousek ke Svatému Štěpánovi. S maniakální chutí
 
 K Bäckerstrasse je odtud kousek – stojíme před omšelou fasádou kavárny, máme pár minut náskok… Uvnitř je příjemné šero a poklidný, pomalý ruch… Několik temně rudých, navzájem propojených místností má stěny polepené plakáty z dávných časů. Zdravíme se s šedovlasým, výhradně mužským personálem… Sedáme si dozadu, do rohu, pod velké zrcadlo… Jasně, dáme si café mélange a apfelstrudel… Postarší pán vezme objednávku, zaregistruje očima (pod třpytnými brýlemi v kovových obroučkách) náš slovanský akcent a odejde k barovému pultu, kde spokojeně syčí naleštěný kávovar. Několik chlapíků se otáčí za mašinou, jeden v podstatě neustále napařuje a šlehá mléko pro cappuccina, latté, horkou čokoládu… Pojednou si uvědomím, že u protější zdi sedí náš ochranný stín – šlachovitý geofyzik a čte si noviny… Jak mohl tušit, že instinktivně zaplujeme až do zadní místnosti? Věděl to, jeho mlčenlivá, nekomplikovaná povaha nepřipouštěla jinou možnost.
 
-  
+</section>
+
+<section>
 
 Když jsem mlčky krájel jablečný štrúdl se šlehačkou a spokojeně zahlížel do horké mléčné pěny, která od středu postupně tmavla, jak lžička míchala ten pomalý slastný vír… (Byl jsem myslí jinde než v místnosti – podivně nesený událostmi posledních týdnů… Když jsem v Lisabonu zaregistroval skrytou – spřátelenou činnost okolo mé osoby, tak má ostražitost polevila.) Teď jsem si všiml, že ke stolku snědého geofyzika přistoupil mladší člověk. Pozdravil a usedl naproti. Nikdo z té náhodné dvojice se nepodíval k našemu stolu… Prohodili spolu několik německých frází, host dopil piccolo, které si zřejmě přinesl od jiného stolku, a opět se zvedl… Věděli jsme, že poté co šlašitý průvodce zaplatí a zvedne se – za deset minut učiníme totéž… Máme jít dál ulicí, do středu města – geofyzik si nás v příhodnou chvíli zkontaktuje sám.
 
@@ -563,7 +651,9 @@ Odcházíme, čekáme na výtah. Na buldokovo místo u pokladny teď nastoupil 
 
 Usmíváme se na to lidské zvíře a to hledí prázdným pohledem na nás, bez myšlenky. Má pootevřená ústa, asi mu nejde dýchat nosem… Když se za námi zavřou skleněné dveře výtahu, pootočí se a se stejným výrazem, s otevřenými ústy hledí přímo před sebe, dívá se na průduch klimatizace.
 
-  
+</section>
+
+<section>
 
 Rozsáhlé prostranství, parky a paláce Hofburgu – modré nebe nad hlavou. Větřík od vodotrysků přináší svěžest srpnového poledne. Bílé slunce prozařuje fontány, rozsvěcuje vodní tříšť – která jak tekuté diamantové závěsy a lustry padá nazpět na hladinu. V tryskajících krystalech na zlomek vteřiny uvězněné světlo – se uvolňuje ze svých atomárních vazeb, rozlétne se na všechny strany a způsobuje na dně kašen podivuhodné úkazy, tiché záblesky a bludné, rozčeřené stíny.
 
@@ -575,11 +665,15 @@ Maďaři, Bosňáci, Poláci a Slezané, Židé z Haliče a Bukoviny, Rusíni
 
 Takového pohádkového císařstvíčka a královstvíčka byla (a mož­ná někdy nad ránem… kdy nad světem létají nepokojné sny a spáči se budí se zmuchlaným obličejem a nic nechápajícíma očima hledí na světélkující budík… kojenci zatleskají nožičkama v peřinkách – a psi v peleších se zavilou vášní rychle procvakají zuby svou srst, hledajíce blechu, která je sužuje v oblasti koulí)… pořád ještě nějakým nepochopitelným způsobem je – tato Vídeň hlavním a požehnaňoučkým hlavním městem.
 
-  
+</section>
+
+<section>
 
 Zentralfriedhof je regulérní městská čtvrť. Leží tu snad tři miliony mrtvých… Všechno je obrovské – vstupní vrata, boční vchody, široké aleje mezi náhrobky. Automobily s pozůstalými zde mohou projíždět… zajisté s funerální vážností… Uprostřed korun stromů, ve sbíhajícím se paprsčitém systému hlavních tříd a postranních ulic, se tyčí obludně veliká pohřební kaple, basilica maior národa neživých. Upíří katedrála… Opravdu se domnívám, jda alejí, kde z břečťanů vykukují bysty hudebních skladatelů, malířů a básníků, že kráčím snovou krajinou, veden zlátnoucími přeludy po vydatné dýmce opia… Hrome, tahle končina na mne působí tak silně – takovou moc mají ty zástupy koster, prorostlých kořeny v hutné, vydatné zemi, že realita má snový, řídký charakter… a moje myšlenky a ještě více pocity dostávají punc neodvratnosti, budoucnost ovlivňující, oplozující veliké zárodečné shluky buněk nového světa.
 
-  
+</section>
+
+<section>
 
 Sedíme na lavičkách na hlavní třídě, naproti pohřebnímu monstru. Hledím na ten Bajkonur loučení – a šlašitý „indián“ jak sfinga s pohyblivou hlavou mžourá do slunce a občas sekne černým očkem do postranních alejí… Je čas.
 
@@ -639,11 +733,15 @@ Vzpomínám si, že před pár lety měli v Rakousku podobnou postavu – hezo
 
 Poslední noc – v gay-baru, to kapku přehnal s chlastem a skončil blbě… Zdá se. Do „jisté míry“ to mohla doopravdy být nešťastná náhoda.)
 
-  
+</section>
+
+<section>
 
 Je to zvláštní – hledím na Tymošu, odmlčel se, starý kozák – je to podivuhodné, jak slova nesou svět na svých nehmotných, neexistujících křídlech… Gottlieb je Bohumil, Emanuel. Bohu se v něm líbí. A nachtigall je slavík (Luscinia megarhynchos), „noční Francouz“… Sémantické překluzy, obaly asociací, lingvistické linie významů, křovinná etymologie jazykového větvení. Šerověk.
 
-  
+</section>
+
+<section>
 
 Tymoša opět nabral síly a já přisouvám sešit: „Američtí jestřábi, jižanští naftoví magnáti a zbrojní koncerny – a sovětští generálové, celá ta mašinérie vojensky organizovaného státu Sovětů… obě strany žily z té hrozby konfrontace… Zbrojení, válečná psychóza, nacionální emoce – to je živná půda pro systémy. Nechtějí vyhrát ani prohrát. Jde o to zůstat ve hře.
 
@@ -665,17 +763,23 @@ Manželka Howarda Hunta (vedoucího pracovníka CIA při akcích v Guatemale a�
 
 James Jesus Angleton (rezident v Itálii – odstavení komunistů od vlády, kampaň za několik milionů dolarů, v Izraeli koordinace U. S. pomoci při vytváření armády a zpravodajské služby židovského státu… posléze šéf kontrarozvědky CIA – ochrana aparátu služby), když byl jako starý muž penzionován, řekl tuto větu: Allen Dulles, Richard Helms, Frank Wisner – byli velcí mistři… Pokud jste ale s nimi seděli v jedné místnosti, pojednou jste cítili, že každý z nich nějakým způsobem věděl – že skončí v pekle.“
 
-  
+</section>
+
+<section>
 
 Mlčíme a vůz přede jak medvěd v zimním spánku. Pomalu kroužíme krajinou okolo Vídně… Lužní lesy a slepá ramena Dunaje. Mokré louky, desítky čtverečních kilometrů rákosí a ostřice, sluncem ohřátý vlhký vzduch, hejna šťastných, pářících se oblaků mušek a komárů. Volavky vyvedly mladé, postávají na březích močálů a pomalu vyhlížejí podzim, dobu odletů.
 
 Myslím na explodující hlavu prezidenta Kennedyho. Toho osud­ného dne, kdy naráz zestárla generace mladých lidí na celém světě… stál nenápadný pán, stál v Dallasu, poblíž železničního podjezdu, stál s amatérskou kamerou a zachytil pro svět tento historický snímek – tichého státního převratu v dějinách Spojených států… Tisková agentura koupila ten amatérský film za desítky tisíc dolarů. Čtrnáct let ho držela v trezoru.
 
-  
+</section>
+
+<section>
 
 Auto se během mých úvah, za mlčenlivého poklidu všech pasažérů, dostalo na svahy porostlé řadami vinné révy. Stoupáme pořád nahoru, míjíme veliký areál secesní léčebny duševně nemocných… Silnice nás vede po vrcholových partiích kopcovitého hřbetu nad městem… Dole, v průhledech mezi stromy, leží odpoledním sluncem pozlacené, medem žlutého světla zalité mraveniště kostelů a paláců, mostů a divadel, autostrád a výškových budov… Pradávný svět v jantaru srpnového večera – Vídeň.
 
-  
+</section>
+
+<section>
 
 Automobil zastavil na odpočívadle, na vyhlídce. Jsou zde lavičky a odpadkové koše. Informační tabule – a hlavně liduprázdno.
 
@@ -715,7 +819,9 @@ Ano! Ti slušní, inteligentní pochopí, že je s námi dobrá kooperace… Ti
 
 Musí to tak být – protože tady už dávno nejde o zájmy jednoho národa… tady se hraje o přežití lidstva.“
 
-  
+</section>
+
+<section>
 
 Hledím na starobylou Vídeň na Dunaji – večerní stín zalehl už velikou část města. Jen svatoštěpánský chrám má svou nejvyšší věž ještě z poloviny ozářenou rudým sluncem.
 
@@ -729,7 +835,9 @@ Tymoša mi poklepal na rameno. Viděl v mé tváři smutek, bylo mi, jako bych 
 
 Pak přistoupil až na dotek našich ramen – hleděl na město a přikázal mi, abych si nic od této chvíle nezapisoval… Potom svěřil mým uším několik informací, které se týkají bezprostřední budoucnosti. Je to osobní záležitost.
 
-  
+</section>
+
+<section>
 
 Pomalu se vracíme k černému mercedesu. Otočil se na mě ještě jednou a vesele řekl: „Když se tě někdo bude ptát, tak řekni o všem, co jsi dnes zaslechl – že sis to vymyslel… Vše je lež.“
 
@@ -739,7 +847,9 @@ Další „mladík s vypracovanými prsními svaly“ nedělá s jízdou žád
 
 Máme ještě čtvrt hodiny k dobru, tak se beze spěchu loudáme k nočnímu spoji do Brna… Večerní kolotoč vozidel mě uspává. Chci si sednout a Pavel je též „ušlý“. Společně s geofyzikem usedáme do hlubokých sedadel pohodlného autobusu… Mlčíme, plni dojmů. „Indián“ mlčí ze své podstaty… Usínám.
 
-  
+</section>
+
+<section>
 
 Probudil jsem se v kopcovitém stoupání, na serpentinách a v ost­rých zatáčkách. Za okny vidím rozsvícené náměstí vinařského městečka.
 
@@ -775,7 +885,9 @@ Byl vybrán schopný a perspektivní kandidát na funkci generálního tajemní
 
 Chvílemi usínám. Motor autobusu zní jako velký čmelák, polykající kilogramy lesního, temného medu.
 
-  
+</section>
+
+<section>
 
 Nenechám si od lidí poškodit hlubokou důvěru v tajemství života… Nenechám si vzít radost z tvoření.
 
@@ -783,7 +895,9 @@ Před tmou a světlem na počátku světa… Před tímto počátkem existovala
 
 Když přemýšlím nad knihami a jejich příběhy, nad těmi otisky práce mozků dávných lidí – kteří žili své životy na této planetě… Odvažuji se opakovat začátek svého vnitřního světa a tam někde v tmách nevědomí nacházet silnou emoci – dotek neznámého, který mně dává jistotu – že jsem u toho.
 
-  
+</section>
+
+<section>
 
 Přes sklo autobusu cítím sálavé teplo z prohřátých strání. Mohutný monolit Pálavských vrchů vysílá do okolí vlny černého světla.
 
@@ -792,3 +906,5 @@ Jako maják na hranici nebes vyzařuje nastřádaný sluneční žár do čiréh
 Na chvíli mám pocit, že se mýma očima dívá kdosi jiný… Ta neznámá bytost stojí a na ni se nasouvá mé tělo, mysl a celý tenhle svět.
 
 Vidím sám sebe jako přeludný, nehmotný film. Paprsek kreslící příběhy do oblaků… Atmosférickými poruchami a vzdálenými elektrickými výboji rušený televizní signál. Dávají černobílý kreslený seriál – Kluk z plakátu.
+
+</section>

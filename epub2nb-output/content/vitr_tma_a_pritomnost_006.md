@@ -3,6 +3,8 @@ title: Kapitola 1 Můj
 contentType: prose
 ---
 
+<section>
+
 Sedím v autobuse 213, krouživě protíná křižovatku u Koh-i-nooru, přejíždí železný most nad posunovacím nádražím a stoupá na Bohdalec. Nechávám za sebou kouřnaté dno vršovického údolí a oddávám se myšlenkám.
 
 Jak je to jiný čas, úplně – až do morku kostí, do buněk, v molekulárních strukturách žiju jiný, další život. Deset let čekám na kamaráda smrt, a on nepřichází. V dětství jsem mu párkrát pohlédl do očí a teď vidím – že musím žít. Nebráním tomu. Možná to je dluh za tu krásu, tady v těch místech za nádražím, v Přípotoční ulici, se mi rozsvěcel život a já sál vůně této jarní a podzimní planety.
@@ -11,13 +13,17 @@ Chodil jsem k tetě a strýčkovi dívat se z okna. A potom coby mladík zam
 
 A možná tento současný vyšedlý stav ducha je dar za léta úzkosti a zvířecího míjení s lidmi. Huba mi už léta jede sama, v krámě, s bábou v trafice, v tramvaji. Jako všichni ostatní vytvářím kolem sebe mumlavý, dýchavičný stan malých každodenních chtění, nejsem sám…
 
-  
+</section>
+
+<section>
 
 Harmonika číslo 213 bručí a sjíždí z kopce dolů ke křižovatce, stávala tam hospoda – dechovka, tancovačky, cikání ráj. Naproti přes ulici, za zdí plynárny, se tyčil mohutný plynojem. Když kodrcající dřevěnou tramvají ujížděl jsem k městu, v roce 1969 – gigantická rezavá stavba plynojemu rostla do výšky a jindy zas klesala, jak hladina svítiplynu zvedala tu upoutanou plechovou vzducholoď v železné kleci. A zapadající slunce barvilo svou krví ryšavé pláty plechu a boubelaté nýty pomalu obrůstaly psím vínem a bezinkami. Za letních večerů…
 
 Jindy zas, na roztřepeném okraji paměti, přijeli za podzimních dnů komedianti a postavili svůj malý cirkus a střelnice na pláni uprostřed sídliště… Provazochodci na lanech napjatých mezi vysokými stožáry chodili s rudou světlicí, se sršícími pochodněmi v rukou… Vyrostl tam též prapodivný, kulovitý Glóbus smrti… Když večerní mraky pomalu zatahovaly obzor a rozsvěcely se pouliční lampy, zařvala do šera silná motorka a platící divák mohl zblízka a malý usmrkanec, když podlezl šňůru, mohli oba s otevřenými chlebárnami zírat na vyjící motor v kleci a na Muže smrti, který v kožené kukle jezdil jak velká masařka v dýmu a rachotu v železné kouli sem a tam. Sem a hlavou dolů. Jawa – hyena.
 
-  
+</section>
+
+<section>
 
 Nyní, jářku, mohutné letní slunce táhne stíny tyčí, držadel a lidí, rozsvěcí útroby autobusu a z okna vidím, že stoupáme na Chodov, tam je můj dnešní cíl.
 
@@ -25,15 +31,21 @@ Zachytil jsem nějaký pohyb na okraji zorného pole, pomalu otáčím hlavu a 
 
 Muž je sleduje utkvělým pohledem, a tu shledávám, že synchronizuje práci svých úst s pohyby rtů a s grimasami dívek. Pubertálně protahuje ústa, jakoby nedbale přežvykuje slova, mazlivě vrtí hlavou a špulí samolibou hubičku. Je z něj „zlobidlo“, „potvůrka“, „vopice“. Nemůžu si pomoct, ale v odrazech protějších oken sleduju, jak jeho ústa mazlivě artikulují „ty píííčooó“. Dokonce v rambajzu motoru slyším protáhlé „čóóó“, po chvíli „ééé, co blbnéééššš…“. Po očku hledím na mužův horní ret, je tam cosi, v těch rysech nebetyčně, nelidsky dobrotivého, jakási artistní láska, paušální přihřátý cit k lidem. Hluboká osamělost je znát na pozadí, pod tím chvěním, pod tou posunčinou… Zelenošedé ještěří oči, nehybně zírající za skly brýlí, dodávají tomu chlápkovi zjev laskavého velitele koncentračního tábora. Chasa mladých vystupuje, šedesátník je pozoruje z okna, autobus se rozjíždí, brýle z chirurgické oceli sledují zvláště jednoho štíhlého, vytáhlého mladíka, jenž cosi hekticky volá a mává rukou na své kamarády. Bus chrochtá na kruhovém objezdu, horní pysk se protahuje jak ovčí tlama a do rachotu automatické převodovky se ozve tlumené „mmméééé…!“.
 
-  
+</section>
+
+<section>
 
 Náhorní plošina. Pláň dříve zarostlá poléhavou travou, s dolíky a výmoly zapomenutých stavebních jam, kde lopuch a kopřivy ukryly do svých dusných, zapařených porostů kdejakou chamraď a neřád. Jílovité kaluže a rákosím zarostlé strouhy. Země nikoho, kde smečky dočasně zvlčilých chlapců hrály pravěké hry v dřevěných špulkách od tlustých, jak krk příšery silných kabelů. Území křovisek a průhledů do daleka na město, za zády krajina polí a lesů na obzoru. Mohl jsi svobodně srát, hlavu vystrčenou z husté lebedy, mohutně prdět a dívat se, jak v dáli visí v odpoledním horku prezidentská vlajka na Hradě.
 
-  
+</section>
+
+<section>
 
 To bylo tenkrát. Nyní všude okolo hučí estakády a přivaděče. Horký vzduch se chvěje v rozpáleném betonu sídlišť. Ubytovna Košík, svého času hotel podivných existencí, pracujících na pražském metru, lomozivá haluzna tesco baráků a unimo buněk, při výplatě halekala do tmy. Za krále Klacka.
 
-  
+</section>
+
+<section>
 
 Velká, pozvolná vlna nevolnosti mi stoupá ke chřtánu, celé tekuté pohoří úzkosti se dalo do pohybu, hnuly se tektonické vrstvy v podloží mé duše. Pomalu se snažím zpracovat neklid a racionalizovat, ukostřit to mravenčení v útrobách.
 
@@ -55,7 +67,9 @@ Slečna se stále tváří laskavě a se sklopenými zraky se mnou komunikuje s
 
 Podle její lehce povadlé ženské pokožky na tváři, podle širokých boků usuzuji, že má velké bílé hýždě, líné na povrchu, tvarohovitě hrbolaté, a stejně měkké půlky zadnice, dlouho uchovávající zarůžovělé otisky spodního prádla. Ale ten biskup! Ten teple lahodný, měkce ženský dotek na mozku, když skenuje své okolí a… Úplně ho vidím, cítím v hubě toho zmuchlaného, ústřičnatého nemodlence. Tu paprč!
 
-  
+</section>
+
+<section>
 
 „Prosím vás, hledám nějaké informace, vlastně cokoli o mém dědečkovi, víte, za protektorátu byl opakovaně vyslýchán nějakou německou bezpečnostní složkou, snad gestapem. A jednoho dne roku 1939 se vrátil z týden trvajících výslechů – snad měl být v Drážďanech, vrátil se v noci, ulehl a druhý den ráno vstal z postele a zemřel…“
 
@@ -69,7 +83,9 @@ Dají mi vědět. Ať jsem trpělivý, jsou toho kilometry nezpracovaných dokum
 
 Odjíždím, v hubě sladkou pachuť po tom jejím neodbytném frajtrovi, musel jsem ho vyjmout z mozkových plen, to kladélko zastrčených úmyslů, tu kukačku volající z dálky, za kuropění: „Ošukej mě… ošukej!“ Vzpěčoval se. Neznaboh.
 
-  
+</section>
+
+<section>
 
 Orvanej ohledy a zdvořilou mluvou s institucemi, vracím se v ta místa zhruba po měsíci čekání. Napsal jsem tou dobou tucet žádostí, oslovil několik archivů. Zjištění hrozivé – archiválie se měří na „badatelské metry…“.
 
@@ -85,7 +101,9 @@ Jsou to všechno vidiny, stejné jako haluze svatého Jeronýma, flash backy sva
 
 Jedna z těch černých masařek má plešatou bledou hlavičku a knír, má moji tvář! Teď uvízla v pavučině v rohu okna, kde bubnuje svůj vzkaz lidstvu. Morseovka úderů říká: „Salááá-áám! Salááá-áám!“ Vířím prach na okenních parapetech, zuřivě třeštím… a teď: „Bzííí. Bzííí.“ Lepkavá síť obaluje má křídla. Mohutná křižáčice ožila v pavučinovém hnízdě, pavoučí samička – mě, nebožačku – popadla do svých silných nohou a mohutnými kusadly teď saje z mého chlupatého těla život. Samička! (Samičky mě pronásledují celý život, jsem před nimi bezmocný – už na základní škole si chtěly pořád hrát na doktora, na svatbu – to jim zůstalo i do dospělého věku, kdy jim tam dole narostl hustý „loupežnický“ plnovous – kolikrát přijdou neoholené, mají tam týden staré strniště, a to tak šustíííí, šustííí-ííí!) Ach – a už je po mně. Spadla lžička do kafíčka, udělala bác!
 
-  
+</section>
+
+<section>
 
 Policejní spisovna – zní nápis na deskách. Uvnitř, na zažloutlých listech, jsou průběžně za sebou seřazené žádosti mého dědečka o cestovní pasy, na formulářích jsou vyjádření jednotlivých oddělení, malá červená razítka: StB I, StB II – není záznam, nemá námitek, rozmáchlé podpisy fialovým inkoustem… Systém, to se ukázal po Rakousku-Uhersku převzatý systém státní kontroly. Už tehdy propracovaný, po druhé válce a nyní dotažený do nadlidské podoby.
 
@@ -95,7 +113,9 @@ V modrošedé obálce nacházím prošlé cestovní pasy a poslední, v roce 
 
 Dívám se na razítka pasových kontrol. Za protektorátu byly přechody hranic v Litoměřicích, v Chomutově… Hluboko uvnitř státu. Hledám data blízká době úmrtí dědečka. Srpen 1939. Žádné razítko o přechodu hranic se nekryje s tou dobou. Ale je možné, že byl buď vyslýchán na našem území, anebo – pokud ho vozili úředním vozem gestapa nebo Sicherheitsdienstu, nebo snad Abwehru?… tak mu prostě při přejezdu hranic nebudou dávat razítko do pasu a spokojí se s odznakem či legitimací příslušné německé bestie.
 
-  
+</section>
+
+<section>
 
 Vše jsem si ofotil (bez blesku – samozřejmě), roztřesenou rukou vrátil dokumenty, naposled spočinul na dívce – tučné rusálce (měla volno, s očima schovanýma za pokleslými víčky byla soustředěna na svůj život, dříve se říkalo děloze život či dokonce – matka, byla tedy soustředěna na svoji matku, celá ponořena ve svých útrobách zažívala historikovu ektoplazmu, až sem byla cítit rybinou, pozřela kus jeho prokouřeného ega, a teď po hadím způsobu trávila).
 
@@ -119,7 +139,9 @@ Toho podletí, kdy náhle zesnul můj takřka osmdesátiletý strýc. Ten kulome
 
 Stáli jsme tam, před obřadní síní na hřbitově, v prudkém po­ledním slunci. Strýc – zesnulého bratra bělovlasé dvojče. Tento vědec-matematik s hořkostí v hlase, zkroucený nějakou vnitřní bolestí (babička mi vyprávěla, že bráškové-dvojčata hovořili mezi sebou až do svých osmi let nějakou soukromou, cizím nesrozumitelnou řečí…), tento živý a inteligentní strýček stál teď opřený o zeď a říkal, že snad dovnitř ani nepůjde, že bude na vzduchu. Jeho žal byl neosobní, ale o to víc hluboký, trhání – odluka v mase, v buňkách. Oddělení, roztětí.
 
-  
+</section>
+
+<section>
 
 Seděli jsme po pohřbu v besídce, na zahradě u tety. Černě oděná nohatá vdova, podivuhodně čiperná – nosila stále další a další občerstvení. Strýc s ještě živým smutkem v očích hovořil s námi na všelijaká témata. Od věků se rodinné srazy odehrávaly tak, že po jídle se mužská a ženská společnost samovolně oddělily, a chlapi a kluci začali vést hovory na politická a vědecká témata, s přihlédnutím k praktickým poznámkám o motorech a stavebnictví. Ženy se sesedly a v hovoru se odebraly ke svým dětem, vnoučatům a nebožtíkům.
 
@@ -163,7 +185,9 @@ Vrtíme a potřásáme hlavami. Nejdříve mladí, pak i starší se smějí a
 
 Studená hrůza té doby natekla poznenáhlu mezi nás, jako by někde poblíž byl kus ledu, jako by se převrhla nádoba s tekutým dusíkem, a on teď tekl travou mezi námi a vše zmrtvil a znehybnil… Opět byla smrt mezi námi. Před hodinou jsme přeci přišli ze hřbitova…
 
-  
+</section>
+
+<section>
 
 Tu můj veselý otec, nejmladší ze sourozenců, povídá, obraceje se na nás mladší: „Vláďa (to byl právě pohřbený strýc) uměl nejlíp z nás utíkat. A když za války nebylo co jíst a my byli s máti na chatě, protože tady na venku se ještě něco málo dalo sehnat… Tak když na poli byly brambory, tak se Vláďa převlík za holku, vzal si sukni a červenej šátek si uvázal na hlavu a šel krást… Kolikrát ho ty vesnický uviděli a hnali se s křikem za ním na pole… A on si jen podkasal sukni, brambory dal do pytle a pytel na ramena, a než ten dědek ho doběh, tak vystartoval takovým tempem, že ho nikdy nikdo nedohonil… A to kolikrát za nim poslali i mladý… Zaběh do lesa, tam shodil ze sebe šátek, sukni… Všechno schoval spolu s bramborama pod větve do mlází a obešel vesnici a z druhý strany se jakoby nic vrátil domů. Za tmy pak šel do tý lesní skrýše pro svý věci a druhej den udělala máti bramborový placky se švestkovejma povidlama, pečený rovnou na kamnech… Sypaný cukrem a skořicí… K tomu sme pili meltový kafe… Po vesnici se pak vyprávělo, že tu řádí nějaká rychlá holka, co umí neuvěřitelně běhat, asi z Čihadel nebo z jiný vesnice… Vládík – rychlá holka…“
 
@@ -173,11 +197,15 @@ Tu můj veselý otec, nejmladší ze sourozenců, povídá, obraceje se na nás 
 
 F-IV-H, lehký obojživelný tank. Někde v bytě, v zadním pokoji, někde v těch skříních, možná v tom prádelníku musí být ta stará nazelenalá fotka. Najdu ji, musím ji najít, nedávno získané informace o okolnostech smrti Ing. Kratochvíla oživily a probarvily tu starou rodinnou relikvii, jež byla pořízena za podivných okolností. V dětství jsem ji vídal, když za příbuzenských srazů, za babiččiných narozenin, se celá široká rodina sešla a my, mladí bratranci, jsme mohli trochu kramařit v šerém zadním pokoji. Bylo to takové staré, vyrudlé album, které spolu s vánočními ozdobami, s černými a rudými čerty ze štětinatých drátků, s letadélky z vybledlých skleněných perel spočívalo v některé z hlubokých šuplat toho prachstarého prádelníku. Později nad těmito artefakty potichu zvítězila černovlasá dlouhonohá panna – modelka, měla přes vyvinutá prsa přehozenu rudou šerpu s nápisem Miss Hong Kong 1956.
 
-  
+</section>
+
+<section>
 
 V těchto dnech, kdy jsem obeslal různé ústavy a instituce dotazy na mého děda, žádostiv najít alespoň kus, záblesk zprávy z těch dávných válečných časů. Útržek reality, který by potvrdil nebo naznačil – co se to tehdy stalo, že mírný, blonďatý inženýr s velkýma bezelstnýma očima musel umřít…
 
-  
+</section>
+
+<section>
 
 V těchto větrných dnech, kdy náhlé podletní deště zatáhly na týdny oblohu, jsem zahnul z průjezdu a tu do mne málem vrazil rychle se řítící invalidní vozík. Z něho se na mě rozmazaně smála zhroucená paní a zpoza ní na mě začal přátelsky krákorat veselý drobný mužík. Obličej mladého kluka má při bližším pohledu složen z tisíců drobných vrásek, značnou část tváře ukrývají velké sluneční brýle, mám podezření, že jsou to okuláry dámské, někdy v sedmdesátých letech jsem je vídával na jedné televizní zpěvačce…
 
@@ -199,7 +227,9 @@ Jsem zticha a nechávám ty informace, aby si je systém zpracoval a zařadil.
 
 Brána do minulosti se zavřela. Hledím, jak se panu Brůžkovi zatahují očka slepičí blanou a on se převtěluje do jiné roviny vnímání a myšlení. Skřehotavě zahlaholí: „Tak, pane Kratochvíl, všechny pozdravuju, všechny – celou vaši rodinu! Tak nashle! Nazdar!“ Mává a roztlačuje celým tělem vozík, paní vypadá, že mezitím usnula… Teď se překvapeně rozhlíží a vzápětí upadá opět do limbu. Štěrk vrže pod kaučukem.
 
-  
+</section>
+
+<section>
 
 Uběhlo pár dní, možná týden. Potkal jsem opět v průjezdu… ta hromská díra v bloku domů, kudy vane věčný průvan, stává se mi osudnou. Opět se něco vyřítilo proti mně, pravda – bylo to pomalé, šouravé, o to méně spontánní, spíš číhavě zištné, hledící si zásady vyždímat z kamene písek, když nepoteče voda. Stařena s chodít­kem, ano, s vozíkem o dvou řídítkách s bovdenovými brzdami, stařena-účetní odvedle, známe se z komunikace ohledně popelnic v průjezdu, měla naše bytová společenstva mezi sebou různá řízení, z nichž vzešly „bilaterální“ dohody o umístění páchnoucích kontejnerů…
 
@@ -245,7 +275,9 @@ Když to už nevydržím, vcházím dovnitř a nenápadně si stoupám ke stěn
 
 Georg si mě už všimnul, a tak si nemotorně obléká bundu a zavírá laptop. S vlající šálou odchází, držím mu dveře, loučí se laskavě s celou prodejnou, ale má tendenci zopakovat celý svůj problém ještě jednou. Beru ho za loket, přátelsky odvádím jeho pozornost a v družném rozhovoru odcházíme. „Pítr, rozumiš, ja odinstaloval ovladač a asi jsem čistil registry a teď tam mám nul! Nul! A musim si půjčit nebo koupit CD mechanik. Moje stará. Ještěže mám stará modem, tak někdy v noci mám pripojení, ale nemužu skajp, vypadává to…“ Je opravdu nešťastný, ač svým způsobem je autista, tak je družný a závislý na lidské komunikaci. V Japonsku, na Tchaj-wanu, v Číně, v arabských zemích, na severu Evropy… všude má přátele, ta planetární bytost.
 
-  
+</section>
+
+<section>
 
 Jdeme k Houbaři. Potřebuju Georga jako překladatele a komunikátora, rodilého mluvčího, s úřady v Německu si píšu už půl roku. Nechávám ho mluvit, pokyvuji hlavou a sbírám energii.
 
@@ -261,7 +293,9 @@ Dotáhnul jsem posledním soustem knedlíku zbylou šťávu a odložil příbor
 
 „Georgu, nechceš se teď projít? Pojďme do Stromovky, a pokud chceš, já pak jdu – je to hned vedle, dát na hrob svíčku. Grossfater a grossmutter. Jsou jak se říká Dušičky a na hřbitově je tedy krásně. Jo? Companero.“
 
-  
+</section>
+
+<section>
 
 G. mlčky kráčí, zeširoka si vykračuje mezi běžkyněmi a pavoukovitými starci, již za klapání turistických hůlek jak čtyřnožci rychle se míhají v šeru smrčin. Psy a kočárky v tomto listopadovém sychravu vidět jen po střídmu.
 
@@ -273,7 +307,9 @@ Písek nám pod nohama tichounce vrže, spadané listí hořce zavonělo po tab�
 
 Pod vysokými stromy je už hluboké šero. „Pojďme,“ povídám, „aby nám hřbitov nezavřeli…“
 
-  
+</section>
+
+<section>
 
 Jdeme okolo namodralých, zářivkou osvícených oken hospody na nádraží Praha-Bubeneč. Potom míjíme tunýlek pod tratí, viadukt, za ním je Papírenská ulice a tam je řeka a v dálce hučí čistírna odpadních vod. Zatáčíme nahoru okolo Saigonu, hospody, co už tu dvacet let není… A v bráně hřbitova zvolníme, protože je to dobré, máme čas.
 
@@ -293,7 +329,9 @@ Georga hledám mezi stromy a hroby. Už zvonili, že je zavírání hřbitova. 
 
 Za korunami stromů jde rozsvícené letadlo na přistání, na Ruzyň.
 
-  
+</section>
+
+<section>
 
 Na ulicích je všude večerní ruch, lidé se vracejí z práce. Cinkot tramvají. Kráčíme do kopce, ulicemi a plácky tam někde Na Urale, nahoru do Dejvic, na Kulaťák.
 
@@ -303,7 +341,9 @@ Jdeme přes prostranství na Kulaťáku, na okruzích bručí autobusy plné lid
 
 Dáváme si v mlíčňáku vlašský salát s rohlíkem. Georg stále vede svou. Dívám se, jak na sklech výkladů se odráží osvětlený vnitřek mléčného bufetu, a za tím – jako druhý plán, je vidět tramvajová zastávka plná lidí, a teď přijíždí rozsvícená tramvaj a rychle se plní. Jen tak se dívat a kývat rohlíkem, pak mu ukousnout špičku a dál, plně soustředěný, nabírat majonézu a hrášek z okraje talířku.
 
-  
+</section>
+
+<section>
 
 Kráčíme po Prašném mostě nahoru, ke Hradu. Georg, obklopen ruchem dopravy, halasí do tmy: „On mi ten učitel psal, že ten, co měl ty filmy porno točit, ten že už nežije, ale ten padesátiletý z našeho ročniku, tak ten se pořád cejtí zneužitý a chce, aby se o tom psalo, aby se to vyšetřovalo po těch letech, a teď mi napsal zase ten, co si mysli, že ho násilnili, abych mu to dosvědčil, a já mu napsal, že bohužel, nic takovýho nepamatuju a o nějakých film s gay chlapci ja nic nevim, jenom že ten co gay starší, už nežije, a on se tim netajil, měl přece pritel a všichni to vedeli. To sem mu napsal, a on zase, že vypravěl svůj príběh s nějaký novinař, a ten že by se to mělo zverejnit, a soud a takhle, jó?“ Je to už nesnesitelné, tak Georga přerušuju a prosebně (vím, že bych se rozčílil) povídám: „Proboha, proč je někdo taková píča blbá, že v padesáti – to znamená takřka na konci života, nebo alespoň sexuálního života, v přechodu, začne pojednou mít dojem, že ho někdo před takřka čtyřiceti lety zneužil, a teď to chce medializovat a chce nějaký omluvy, nebo co vlastně ten pytel hysterickejch sraček vlastně chce!?“ To už řvu, naštěstí v halasu ulice není nic slyšet.
 
@@ -311,7 +351,9 @@ Kráčíme po Prašném mostě nahoru, ke Hradu. Georg, obklopen ruchem dopravy,
 
 Směju se hurónsky. Tak jestli na něco dojedem jako civilizace, tak to bude tohle: neurotická absolutní citlivost u jedněch – a zvířecká, automatická žravost a schopnost využít nejmenší slabinu u druhých.
 
-  
+</section>
+
+<section>
 
 Prošli jsme Hradem, kroky stráže duní na nádvořích. Katedrála se ztrácela ve svých věžích a trnech a fiálách a chrlících příšerách. Tam nahoře byla plující tma a vrcholky věží a zlatý lev byli zanořeni v tušových břichách mračen.
 
@@ -339,11 +381,15 @@ Je to nedokončené. Cítím tu nedotaženost v kostech. Musím tu cestu za inf
 
 Je nutné, teď už to vím, zapojit osobní kontakty. Zkrátit ta bludná toulání s požadavky na byrokratické instituce. Léta bych mohl strávit šustěním papíru v archivech. Skončit jak suchá moucha v pavučině za oknem…
 
-  
+</section>
+
+<section>
 
 Domluveno pivo se Suříkem. Nikdo už neví, proč se mu tak říká. Před lety si přinesl tu přezdívku z jiných společenství a part. Pracoval v silových složkách, někde uvnitř aparátu vnitra. Specialista. Už léta je z toho venku, alespoň zdá se. U nich nikdy člověk neví. Ale proč si s tím lámat hlavu. Pro mě má cenu především kvůli kontaktům…
 
-  
+</section>
+
+<section>
 
 Sedíme v Kopretině, hospoda vinohradských píčáků. Za hlaholícím chumlem štamgastů jsou pootevřené dveře. V salonku vzadu je nějaké čtení. Básníci, některé znám, pár tváří známých, některé jsem neviděl léta. Manželský pár nakladatelů, srdečně se zdravím s tichým, široce se usmívajícím černochem Tomášem. Jeho distingovaný, uměřený hlas mě povznáší do „mezinárodních souvislostí“. Jeho si opravdu vážím, ano – kolega. Další poutník krajinou vnitřního světa.
 
@@ -351,7 +397,9 @@ Stárnoucí světoběžník Petr. Vedle něj brýlatý, jako vrána černý, mil
 
 Hovory se proplétají, překrývají a srůstají. Jako před lety. Pivo se pije, nosí se barevné likéry a vína. Nečekané propojení s lidmi – s nimiž je možné mluvit a něco si říct. Jak málo je těchhle setkání. S ubíhajícími lety řídnou, Bože, jednou nastane ticho.
 
-  
+</section>
+
+<section>
 
 Ale teď hlahol a smích, brumendo mužů a vysoké hlasy žen a partnerek, teď ještě sedíme uvnitř své generace. S pokračujícím večerem se společnost rozdělila do několika hloučků kolem dlouhého stolu. Konečně mám kdy promluvit se Suříkem. Balí si ty své cigarety s filtrem, nevzrušeně, klidně. Na druhém konci stolu haleká falešný křesťan Prase, s jedním známým si vyčítají účast nebo neúčast na nějaké protirežimní akci před třiceti lety… vidím, jak má zkřivenou, nenávistnou tvář… slýchávám jeho hlas z rádia, je z něj náboženský redaktor na stanici, která je známá jako starobinec bývalých zaměstnanců jedné štvavé vysílačky – zabývající se černou propagandou… Podivně klidným hlasem dělá rozhovory s náboženskými činiteli všech možných církví, někteří jsou blázni, těm lze věřit, jiní jsou taková zombie ztracená ve svých bludech – takoví umakartoví novokřtěnci. Nyní pozoruji jeho zkřivenou, rudou tvář a něco mi na jeho siluetě nesedí. Pak mi dochází, že mi o něm někdo před časem říkal, že má rakovinu… pod svetrem má na boku měkký, podivný batůžek, takovou větší ledvinku… to bude asi ten vývod bokem, ano, tak měkce se přeskupuje pod tím svetrem, tekutina v gumové schráně… Odvracím zrak.
 
@@ -367,7 +415,9 @@ Jdeme kus po Korunní, a tak mu ještě říkám: „Todle mě opravdu sere, ja
 
 Za deštivého, šedivého dopoledne – pečlivě volím dobu 10:15 až 10:30, telefonuji na ta Suříkova čísla. Zvedá to tichý, sympatický hlas – nějaký postarší chlapík, asi tak mého věku. Zasvěcuji ho do problematiky stručně, jo, říká – Suřík ho už informoval, že budu volat. Podívá se na to, zavolá mi. Mezitím mám za úkol napsat na webové stránky ústavu e-mailem dotaz, kde mám podrobně uvést všechny skutečnosti, které by mohly vést k identifikaci písemností majících vztah k osobě mého děda nebo k jeho případu. Doporučuje mi, abych si přišel k nim prostudovat objektový svazek ČKD (Českomoravská Kolben–Daněk), mají tam toho několik metrů, tak snad to by mohlo být vodítko. Děkuju mu srdečně a slibuju, že nejpozději pozítří přijdu do té studovny.
 
-  
+</section>
+
+<section>
 
 Pod zářivkami v tiché studovně, když mi byl přistaven ke stolu vozík s velkou, vybledlou a zároveň zažloutlou hromadou spisů – poznal jsem dopředu, že případný výsledek bude stejně vybledlý a zšedlý jako ten papír ve složkách…
 
@@ -377,15 +427,21 @@ V průhledu několika za sebou otevřených dveří, přes několik kancelář�
 
 Musím si dát majzla, teď tady tomu šéfuje páter Vyklouz, jako náměstka si vzal zadrhávajícího absolventa fakulty Rudé žurnalistiky, cvikýře Pažouta… Tahle dvojka má zničující sílu nechtěné grotesky. Musím si dát vééélikej pozor! Jsem na pískovišti a na pískovišti – se nic neodpouští!
 
-  
+</section>
+
+<section>
 
 Probírám se lejstry, léta po válce, léta padesátá. Konstrukční oddělení a vývojové dílny, seznamy informátorů na pracovištích – krycí jména, čísla osobních svazků. Kontrarozvědná ochrana státně důležitých objektů. Osoby spolehlivé a hlášení na podezřelé skutečnosti a pracovníky. Kladu si otázku: Kdo je osvědčený, připoutaný informátor? Ten, na koho něco mám, kompromateriál. Zároveň – jako státní úřad nabídnout výhody. Ale ta minulost bude klíč. Jestli někdo udal dědečka, nebo byl na něj nasazen jako informátor… tak přežil s největší pravděpodobností válku, a pokud nezmizel za hranice, tak zůstal a je velká pravděpodobnost, že byl přebrán StB. Převerbován a pracoval dál jako informátor. Taky mohl vstoupit do strany a udělat kariéru… Tohle bude moje síto: začátek padesátých let, oddělení konstrukce a vývoje, odbojář nebo osvědčený soudruh, vedoucí oddělení, ideový spolupracovník nebo agent.
 
-  
+</section>
+
+<section>
 
 Po několika hodinách mám pár nic neříkajících jmen. Doba počátku zaměstnání v ČKD – druhá polovina třicátých let, pracoviště: konstrukce a vývoj, nebyli totálně nasazeni, po válce na pracovišti, u některých odbojová činnost, vstup do KSČ. Krycí jména a čísla mě vedou k osobním svazkům. Vypisuji žádanku a s lehce motající se hlavou odcházím do ulic.
 
-  
+</section>
+
+<section>
 
 Po týdnu mám pár jmen: Ing. Kaláb – krycí jméno Salač, konstruktér Vinšovský, vedoucí Shejbal a prom. tech. Troška – krycí jméno Tovar.
 
@@ -393,19 +449,25 @@ Teď odbojáři, telefonuju staré feně do Národního archivu, ana má na star
 
 Zvláštní, někoho jste ani neviděli, jenom znáte jeho hlas, a už – jako byste četli jeho životopis, jako byste toho člověka znali léta.
 
-  
+</section>
+
+<section>
 
 Než mi pošlou výsledek pátrání ve jmenných seznamech odbojářů, jdu to obhlédnout do Vojenského historického ústavu. Mám s sebou zvětšeninu, digitálně zpracovanou původní fotografii tanku, tajně pořízenou v libeňské loděnici při úředních zkouškách před německou komisí.
 
 Šlapu po dlouhých schodech na Vítkově, pod Žižkovým památníkem, okolo železničních tunelů. Je tady výhled na Prahu, takový ost­roh v zatáčejícím údolí řeky, vymletý miliony let tekoucí mohutnou pravěkou Vltavou… Před Armádním muzeem stojí předválečný, maskovacím nátěrem opatřený tančík. Jakýsi brýlatý, křenící se nadšenec fotí všechny detaily. Přistupuji a prohlížím si čistý průstřel pancíře, zřejmě těžký kulomet, nebo spíš protitanková puška… Zaujatý padesátiletý chlapec leze po pancíři a cvaká digitálním foťáčkem ostošest. Ale vypadá, že by mohl být spojen s touhle institucí, když ignoruje nápisy Nedotýkejte se! a šmejdí po tanku jako čamrda. Povídám: „Dobrý den, jste, prosím vás, tady od této instituce?“ Hned je v obraně: „A co jako, co vy chcete, jako no…“ Laskavě a přátelsky se usmívám: „Mohl byste mi prosím říct, na koho bych se mohl obrátit ve věci československých tanků v předvečer druhé světové války? Máme doma takovou fotografii a chtěl bych její kopii nabídnout tady muzeu, pokud by měli zájem…“ Trochu se obávám, zdali jsem ho nevylekal tím slovem – v předvečer –, ale kdepak, je to technický mozek, ihned vyhodnocuje fakta, která uvádím, a hned volá na kolemjdoucího šedovlasého chlapíka: „Prosím tě, Mirku, pán má tady nějakej nález, podívej se mu na to, jo?“ Ukláním se, děkuju srdečně a pospíchám do kanceláří za tím rychlým šedým ježkem. Při pohledu zblízka vidím mladou tvář v podivuhodném kontrastu k těm hustým bělavým vlasům. Jmenuje se Čoch, tak to má na jmenovce dveří. Ale ano! Znám to jméno, publikuje články a knihy o technice II. světové války. Předkládám mu fotografii, ihned identifikuje typ tanku, sype z hlavy detaily konstrukce, plováky, typ motoru – boxer atd. Dává mi několik čísel časopisu, který vydává jejich ústav, a odkazuje na starší článek, který v tomto periodiku vyšel a zabýval se právě plovoucím tankem. Věnuji mu zvětšeninu a CD, kde jsou v různých formátech uložena podrobná data této fotografie. Děkuje mi a já mu ještě narychlo píšu na zadní stranu té fotky základní údaje o mém dědečkovi. Při loučení mě ještě odkazuje na místní knihovnu, kde najdu různé publikace a články, které by mě mohly přivést dál ve věci konstrukčního týmu z ČKD.
 
-  
+</section>
+
+<section>
 
 Došla mi odpověď ze Svazu protifašistických bojovníků. Evidováni jsou Vinšovský a vedoucí oddělení konstrukce Shejbal, pak je zde nějaký Ing. Broum, ale ten zahynul na začátku padesátých let, auto­nehoda.
 
 Takže tady je shoda, z pracovníků konstrukce jsou dva kusy z odboje, dva konfidenti… Kdo? Který? Všichni, nebo nikdo, a celá věc má kořen někde jinde?
 
-  
+</section>
+
+<section>
 
 V knihovně Vojenského historického ústavu (když jsem se objednával do studovny, musel jsem se dovolat přes armádní telefonní centrálu) byl uložen separát z podnikového archivu ČKD. Schéma zaměstnanců a oddělení, jednotlivá pracoviště, desítky jmen. V článku od Čocha jsem zjistil jména z konstrukčního týmu. Ano – byl tam uveden i můj dědeček, prom. tech. Ing. František Kratochvíl. Ano, byli tam i konfidenti a též odbojáři a několik dalších, mně neznámých jmen. Schéma se začíná lehce vykreslovat. Kdybych tak měl výslechové nebo osobní svazky těch agentů gestapa… Takhle jen tápu, je zde shoda jmen z různých databází, ale kde je ukrytý ten skutečný pramen? A hlavně, kdo na tom případu pracoval? A kdo nakonec dal rozhodnutí k likvidaci?…
 
@@ -427,11 +489,15 @@ To její teta Důbravka zvolila jinou cestu za štěstím. Vzala si majora StB a
 
 Tento major, zajímaje se na popud své ženy takříkajíc nad rámec svých povinností, informoval se o osudu inženýra Kratochvíla a v rámci svých možností dal svým podřízeným prostudovat materiály gestapa, které byly v držení ministerstva vnitra. Prý, traduje se v rodině, byla zde prokázána nějaká odbojová činnost. Alespoň tak se tahle informace uchovala až do dnešních dnů. Nikdo už z této strany nežije, major zemřel pár let potom, nebylo mu ani padesát, kdoví k čemu přistrčil čumák, jeho žena Důbravka i obryně-rusálka Emička jsou už taky na pravdě.
 
-  
+</section>
+
+<section>
 
 S tímhle, s tou marností a hnojem já si zvolil, že budu pracovat… Pověsti, vyprávěnky a legendy – to je materiál, kde je uchován odkaz světa, veškerá naše minulost, přístupná nám žijícím v přítomnosti, v našich tělech, na této zemi.
 
-  
+</section>
+
+<section>
 
 Je tady jeden klon, pojítko do těch časů. Vím, že jedna z mých sestřenic chtěla moc studovat právnickou fakultu, její rodiče proto vstoupili pojednou a náhle do KSČ, přestali jezdit na mše, které se konaly v létě, v srpnu – kdy byl podle starých pověstí svržen z nebe ďábel, a taky zemřel můj děd inženýr. Sestřenice na doporučení kantýnské a majora z MV se dostala na práva. Chodila pak navštěvovat naši babičku, občas si sundala žlutou minisukni (mě v mých třinácti letech nepovažovala za muže), v silonových punčocháčích opékala na pánvi nějaké porce kuřete, vařila nám oběd. Říkala: „Ten Reagan! On s tou svojí neutronovou pumou rozpoutá třetí světovou válku! Ta nemravná puma!“ Díval jsem se na její hýždě v bílých kalhotkách, pevně obepjaté silonem punčocháčů, a kývaje hlavou (před očima houštinu klína, tmící se na vypouklé buchtě, číhající pod hedvábím) – vehementně jsem souhlasil: „Jasně, teda ten Reagan. To je teda…“ Ona obracela ke mně své velké hnědé oči a na tváři jí hořel ruměnec spravedlivého rozhořčení.
 
@@ -439,7 +505,9 @@ Tato sestřenka si posléze vzala „zá muž“, vdala se za takového kudrná�
 
 Pečlivě studuju tuhle možnost, prohlížím si fotografie, rodinné sešlosti za těch let, před a po rozkolu a po opětném sbratření rodinných vazeb… Ne. Pach nedělní slepičí polívky, montování fichtla, za holkama do sousední vesnice… Nejsem „jejich“. Výsledek je jednoznačný. Nikdy jsem s ním prakticky nemluvil, byl bych mu zavázán, kdo ví, zdali by byl vůbec ochoten to pro mě udělat. Vesnické poměry, já tobě – ty mně. Neznáme se. Nechat to tak, to mi říká instinkt…
 
-  
+</section>
+
+<section>
 
 Pražská krysa bude lepší, lépe se schová. K Béďovi do baru chodí různá sešlost. Snad mi poradí.
 
@@ -453,7 +521,9 @@ Skláníme potom nad stolkem své dvě stárnoucí hlavy a tichým hlasem prob�
 
 Zhotovil modroočko, stárnoucí světoběžník s očima modře obtetovanýma. Vypadá s těma obtaženýma očima jako nějaká zavržená, osudem zničená zpěvačka. Ale má se k světu ten potulný DJ, přehrávač a designér. V subkulturách v Amsterodamu, v L. A., v San Franciscu… všude je doma, jako taková malá, rozčepejřená, melírovaná myš.
 
-  
+</section>
+
+<section>
 
 Béďa mi radí: „To je jednoduchý, chodí sem pár chlapíků, jsou to bejvalí policajti, maj teď bezpečnostní agentury. Pro ně to je hračka, maj tam pořád kontakty. Nebo počkej, to bude ještě rychlejší, napiš mi ty jména, datum narození, jestli je znáš…“ Zaraduju se, vzrušení z akce: „Jasně, mám, na flešce, můžu k tvýmu kompu dozadu?“ Proplétáme se sklepními chodbičkami, až ke stropu jsou zde vyrovnány basy plné mattonek a toniků, sudy a kartony… Bludištěm navzájem propojených komor a skladišť jsme došli do malé kanceláře, roury ústředního topení ťukají horkem. „Vedle je kotelna, je tady jak v sauně…“ povídá Béďa. Připojuji se na notebook, tisknu stránku se jmény a daty narození…
 
@@ -465,7 +535,9 @@ Za chvíli přišel Béďa a vedle mého piva položil flešku. „Co jsem dlu�
 
 „Díky, companero…“ Dopíjím pivo a ztrácíme se v hlomozícím šeru mezi opilými Anglány. Béďa se rozplynul, vysublimoval o něco dřív. Ovládá tohle umění, protože žije a pracuje ve středu města, v masomlejnu plném očí a ksichtů, a každá ta lidská nestvůra chce na tebe vyzvracet svůj životní příběh, chce si – marná sláva – odlehčit…
 
-  
+</section>
+
+<section>
 
 Za pár dní mám SMS, Béďa píše: Zastav se. Jdu hned. Je dopoledne, bar je zavřený, ze schodiště táhne pach studeného kouře a někde dole cinkají pivní lahve. Jdeme se projít do Františkánské zahrady. „Tady máš bonus, ještě něco se vykakalo z těch jmen,“ povídá potichu a s úsměvem Béďa a podává mi hustě popsané archy papíru. Čtu, jsou to výtahy z bankovních registrů, částky a čísla kont jsou začerněny, ale je tu spousta informací o jednotlivých klientech, jejich platební a úvěrová historie, všechny firmy a živnosti, obchodní rejstřík, dluhy atd. Sídla firem i trvalá bydliště, hypotéky, zaměstnání, pozice. Výše platu je taky začerněna, ale to nevadí… Nikdy bych netušil, kolik toho banky schraňují o svých klientech. Kdo ví, zdali to je legální, filcky jedny!… Musím se smát. Dokonce vidím, že tenhle systém je mezibankovní, banky si prostě navzájem vyměňují informace o klientech.
 
@@ -473,7 +545,9 @@ Za pár dní mám SMS, Béďa píše: Zastav se. Jdu hned. Je dopoledne, bar je 
 
 Zbývá ještě jedna věc. Adresy mám, všichni z ČKD už patrně zemřeli, ale v těch bytech bydlí pořád jejich děti. Děti a vnoučata, dnešní šedesátníci a třicetiletí, plus mínus deset let… Zbývá mi ještě, vlastně to už nepotřebuji nijak nutně, jejich zdraví, jak jsou na tom ti staří a koneckonců i ta šedivějící omladina.
 
-  
+</section>
+
+<section>
 
 Zavolal jsem Carmen. Je to už postarší chlapík, dělá na ministerské odvolací komisi, je to doktor posudkář. Šajba intelektuální a ostrá buzna. Jsou to tam všichni v té komisi, různí ztroskotanci z lékařské branže, podivíni, alkoholici – osudy smutné a někdy bys zaplakal jak stará sentimentální želva, kdyby i osudy dalších bytostí nebyly stejně plné hoře a smutku a zklamání…
 
@@ -481,7 +555,9 @@ Tohodle, tuhle plačtivou metrákovou kreaturu znám přes syna dalšího znám�
 
 Carmen, bylo to doopravdy k posrání – lnul k nějakému mečivému zpěvákovi, k takové zastydlé, asi opravdu transsexuální bytosti, která stejně by mohla být ženou či hochem. Zpívalo to, vrtělo se to v jednom varieté na Příkopech nebo U Hybernů… Putovalo to po štacích a angažmá v druhořadých operetách a show. Muzikály zpíčené a jiný tento brak. Miloval to, vrtichvost. A za ním, jako velké štěně s vlajícíma ušiskama, běhal a se řítil… MUDr. Carmen, utíkal za poslintanou, tisíckrát jím ožužlanou hračkou. Miloval ho nezištně, jako každý egoista. „Mám ho rád, protože mě miluje…“ Prase.
 
-  
+</section>
+
+<section>
 
 Zvedám telefon – volám Carmen. Jdeme o jeho polední přestávce ven – ač ministerský úředník Carmen se hrozně bojí své sekretářky, zdědil tu vrásčitou kuřačku s chraplavým hlasem, vyfasoval ji se svou funkcí, inventář… Když se na něj poprvé zadívala z oblaků kouře, posunula si brýle na nose, chvíli ještě brejlila na to padesátileté zatoulané dítě, okamžitě identifikovala jeho infantilní sexualitu (Hraje si s hochy, ukazujou si – „čuráčci“. Maminku by s žádnou ošklivou ženskou „nezradil“.). Stará harapana odfrkla a ironicky, jako odpověď na jeho pozdrav zazpívala skřehotavým hlasem – který začínal v hlubokém asfaltovém altu a končil v dobře identifikovatelném afektovaném fistulkovém mečení: „Dobrýýýýííí-ííí-í!…“ Nakonec zašišlala jako pytložvejk: „To máme dnes ale sluníčko!“ Měla otrlou psychiku krmiče tygrů. Carmen se chtěl s pláčem otočit ve dveřích a utéct.
 
@@ -493,21 +569,29 @@ Musím mu mazat med okolo huby, chválit ho, jak vypadá, vyposlechnout si nář
 
 Konečně počal měnit identitu, přebrodil se do jiné sféry a teď tu poznenáhlu přede mnou stojí věcný, řízný chlap s pronikavou inteligencí a gigantickou zpětnou vazbou v mozkových registrech. Předávám mu list se jmény a daty narození. Chvíli ještě jen tak chodíme, potom vidím, jak začal polykat a náhle ho zachvátil hlad. „Hele, já už musím na oběd, do závodky, nechceš jít taky? To se u nás může.“ Děkuju mu, pospíchám, vymlouvám se, dobře mám před očima jeho prskající mastná ústa, drobky a žmolky do dvou metrů všude okolo. Srkání, jako by sál morek ze stydkých kostí…
 
-  
+</section>
+
+<section>
 
 V noci mi na obrazovku počítače připlul e-mail odněkud ze Spojených států (možná už brzo rozpojených). Carmen ovládá techniky komputerové konspirace… Byly tam kompletní výpisy zákroků účtovaných zdravotním pojišťovnám, platba předepsaných léků, bylo tam všechno to smutné a bílé, páchnoucí dezinfekcí…
 
-  
+</section>
+
+<section>
 
 Srovnávání. Nebudeme z toho dělat žádnou vědu. Hledám jen pár jednotlivců. K prognózování vývoje států a celých světových společenských systémů – na tu miliardu proměnných je potřeba hora komputerů a nekonečného softwaru a práce stovek odborníků… Ekonomika, sociologie, politologie, psycho. Nejdražší informace… A stejně, dozvíš se pár alternativ, několik pravděpodobnostních řečišť v moři Svaté Entropie.
 
-  
+</section>
+
+<section>
 
 Jméno, rodné číslo, bydliště, zaměstnání, finanční historie, děti, vnuci, zdravotní stav. Nikdo z nich – konstruktérů a dílenských vývojářů ČKD – už skutečně nežije. Jeden z té dvojice vypadá docela nevinně. Byl to prostě slušný člověk, pokud jsem mohl zachytit, byl evidován jako odborník na problematiku konstrukce tanků a na ochranu státního tajemství, nikoho neudal – alespoň ve spisech nic není.
 
 Další generace… Zůstali dva synové, potomci. Tihle nejpodezřelejší měli po jednom dítěti – musím jim dát krycí jména, aby neutekla dušička z hrníčku… Budou to třeba Hymen… He, he. A druhý budiž… Jařmo. Absolutně náhodná, na ničem než na zvukomalebnosti založená jména – nemohou být vodítkem k žádnému provalu.
 
-  
+</section>
+
+<section>
 
 Už se blížím k závěru, cítím mezi prsty řídký písek marnosti. Chtěl jsem tuhle cestu projít až do konce, tak to mám. Ale jaký je to vlastně konec. S určitostí se nedozvím už nic, ti potomci mi nic neřeknou, dědí se pouze milosrdná lež… Ti nic určitého nevědí.
 
@@ -515,7 +599,9 @@ Ustanovka. Vnitrácké slovo, klon času. Ochranka, ustanovka, „bývalí lidé
 
 Identifikoval jsem za pomoci otevřených zdrojů a nelegálních vstupů do státních a soukromých databází, pojmenoval jsem nejvíce podezřelé z toho, že mohli navést říšský aparát na mého děda. Kdo konkrétně, jména německých důstojníků, která složka… nevím. Byla to vražda? Musím přiznat: nevím. Pravděpodobně ano, ale nelze potvrdit…
 
-  
+</section>
+
+<section>
 
 Jdu na procházku do Dejvic. Adresa, kde bydlel Hymen a kde s rodinou žije jeho syn. Že by Skleňák, ten slavný dům ze třicátých let? Ne, je to pár čísel vedle. Jméno na tlačítku souhlasí. Může to být, podle pozice zvonku, třetí patro. Kolik je? Po desáté, pár minut. Mačkám pár tlačítek, náhodných. Hlasy v mluvítku jdou přes sebe. „Poukázky, reklamy, dobrý den!“ povídám vesele. Ženský hlas se vyptává, jaké reklamy, že žádné nechtějí, ale to už drnčí elektrický zámek a kdosi mě vpouští dovnitř.
 
@@ -527,7 +613,9 @@ Slyším zvuky, napřimuji se, připraven pozdravit a nevzrušeně odkráčet d
 
 Miliony lidí, lidstvo jako tisíciruký netvor máchá žiletkou po ránu, oplachuje břit v horké vodě. Pátravé oko zírá do zrcadla…
 
-  
+</section>
+
+<section>
 
 Na konci času, v ulici prázdné sluncem a dopoledním povětřím, zapálím si cigaretu, ač nekuřák, dodržím pravidla detektivního žánru, a mizeje za rohem, vstříc ruchu na Vítězném náměstí, nechávám za sebou oblak kouře… Ještě za zády slyším, jak se Hymen nahněvaně rozkašlal.
 
@@ -545,11 +633,15 @@ Snažím se zvětšit a rozpoznat jednotlivé tváře. Celé postavy zaplňují
 
 Musel bych mít na to speciální software a určitě silnější mašinu. Prostě, snad jedna z těch postav má plavý knír a velké, světlé, do světa otevřené oči.
 
-  
+</section>
+
+<section>
 
 Ze snímků, které jsem našel postupně na internetu, kladu teď na obrazovku takové pásmo. Jeden snímek pochází ze stejné série vyfocené přes pažení nějakého šífu uvázaného v loděnici. Skupinka mužů v kabátech a kloboucích stojí u plánů, rozložených na pancíři tanku. Vojáci už nestojí okolo, ale pokuřují, též v hloučku, opodál v závětří dílen. Kterýsi z mužů v kombinéze vykukuje z otevřeného poklopu… To je vše, konec příběhu o dvou políčkách filmu. Na ostatních fotkách jsou detaily tanku, nasnímané někde na dvoře uprostřed montážních hal – balzové přídavné plováky, vrtule lodních motorů, výfuky s klapkami proti vodě, malá otočná střílna… Na dalších je zdokumentován průjezd pražskými ulicemi z Vysočan do Štěchovic, tank má dokonce speciální poznávací značku. Ve Štěchovicích tank prudce stoupá z vody a jede po svahu… A nakonec konečně fotografie, kde plave v mohutném říčním proudu, zanechává za sebou rýhu plnou zčeřené pěny a z výfuků se mu valí světlý dým…
 
-  
+</section>
+
+<section>
 
 Z otevřených, varhánkovitých fochů alba vybírám prachstarou, maličkou fotografii na kartičce z tvrdého papíru. Vkládám do skeneru, po chvíli naříkání a hučení vypluje na monitor veliká zvětšenina – jakási babička z doby takřka před sto padesáti léty sedí na židli v zahrádce u mladého stromku, za zády dřevěné plaňky a polední výheň jakési prašné, v zažloutlém papírovém podkladu se ztrácející návsi…
 
@@ -557,7 +649,9 @@ Na dalším tuhém, rezavém snímku poznávám nosatou tvář svého pradědeč
 
 Uvědomuji si, že by stačilo, aby vyměnili tehdejší důkladné dvojřadé sako a mnohočetnou sukni až na zem, oblékli si dnešní šat – to, co nosí dnešní mladí lidé jejich věku, a úplně by zapadli, ztratili by se v davu, praděd s mohutnými dredy a prabába s tetováním na rameni a propíchanýma ušima, zmizeli by v hlučném rachotu a dunění, mezi tančícími postavami na nějaké letní technopárty… Sound systém.
 
-  
+</section>
+
+<section>
 
 Skok o generaci dál… Foto ze začátku třicátých let: Dcera dredaře a indiánky dospěla v pěknou, tichou dívku, a když se vdala, porodila svému muži postupně čtyři děti.
 
@@ -565,7 +659,9 @@ Sněží, je bílo, po nábřeží kráčí černá silueta v buřince – za 
 
 Dnes jsou z těch tříletých chlapců: osmdesátiletý bělovlasý matematik a z jeho bratra, jenž před dvěma roky zemřel – tichá vzpomínka.
 
-  
+</section>
+
+<section>
 
 V té kožené velké harmonice, v té hluboké kase je jedna přihrádka plná fotografií ze všech možných evropských velkoměst, z letovisek a horských, zimních sanatorií…
 
@@ -587,11 +683,15 @@ Pracoval, nechal se najmout jako smluvní zaměstnanec pro americkou vládu, ně
 
 Babička vzala kostkovanou kabelu a odjela do Němec… tam svému bratrovi a jeho portorické ženě a černošským sousedům (byl to nějaký seržant, černý poddůstojník!) – tam šla babička do těch zarosených nekosených luk k Rýnu, natrhala do své kostkované kabely meruňky, pukající, sladce tekoucí plody, tisíce kilogramů jich tam leželo spadaných v trávě, napospas sršňům a vosám. Krásně se žilo blanokřídlým. Primáti prořídli, svými těly obohatili půdu, matičku zemi, předali vázaný dusík… Babička upekla koláče, vonící nádheru, a uvařila takové meruňkové knedlíky, že strýček nosáč, překvapená černobrvá Portoričanka i černošský seržant s rodinou – všichni slzeli nadšením, křičeli štěstím nad tím jídlem. Bylyť ty armádní americké manželky zvyklé vařit pouze z konzerv. A pečené koláče znaly jen od místního pekaře, zjizveného Fritze… Babička pak do té kabely nakoupila nebo z armádní prodejny levně pořídila veliké plátky z telecí kýty. Ty pak v Čechách upekla na zeleném a bílém tlučeném pepři. Na másle, jako přírodní řízky. A opět bylo slyšet dojatý radostný hlas nad tím nezemským, po válce nevídaným jídlem…
 
-  
+</section>
+
+<section>
 
 Zavírám tuhle přihrádku, zastrkávám fotografie nosatého krasavce opřeného o naleštěný bourák, děti jeho sestry sedí v řadě za volantem a jako řídí to veliké fáro. Černý, lesklý přelud minulosti, stojící na prašné polní cestě, před chatičkou, kde babička s dětmi prožila konec války. Všichni se radují, je mír! Mír – dýka a plášť. Mír – smích a pláč. Mír…
 
-  
+</section>
+
+<section>
 
 V myšlenkách opouštím tohle údolí v čase, jámu v každodennosti otevřenou nad životy, nad těmi fotografiemi z časů… Jednou jsem kráčel po střechách bývalých leteckých opraven v Letňanech, dělal jsem tam něco jako stavebního dozora, zástupce… Mezi hangáry byly spojovací budovy a dílny, v jednom slunném malém dvorku se pnulo mohutné, bohatě plodící kiwi… V jednom místě se haly a dílny křížily a v průsečíku stála podivná, pagodovitá, kruhová budova… Zakázal jsem si tehdy myslet na ta kusá svědectví o létajících talířích, vznášejících se na konci války nad kbelským letištěm… Zakázal jsem si myslet, možná ty budovy nejsou ani z války, ale třeba z padesátých let. Ale proč kruhová budova?… Chodil jsem po střechách hangárů jako po hřbetě Leviathana, díval se do dálky na šedavé siluety Českého středohoří, na zkamenělé vlny obzoru, na Bezděz, na ňadro mladé dívky – na horu Říp.
 
@@ -599,11 +699,15 @@ Když mi končila lhůta kontraktu, šel jsem jednoho dne opět po hřebeni stř
 
 Ta chvíle je místem síly v časoprostoru. Mým místem, kde můžu nabrat sílu k zvládání života. Protože můj ctihodný přítel Tonda dal mi svým odchodem veliký dar. Viděl jsem a cítil, jak odchází z těla živá bytost, jak se postupně odpoutává a nakonec je všude ve světě, jenom ne v tom mrtvém těle…
 
-  
+</section>
+
+<section>
 
 Vstávám od počítače a jdu se podívat na svět za oknem. Hluboká tma, město spí. Vysoko v nebi tiká družice nebo letadlo. V okenním rámu, na skle, se zrcadlí vnitřek mé kuchyně. Silueta bez tváře hledí do noci a za zády mu modře a zeleně svítí diody komputeru a modemů. Člověk ve svém zděném, zatepleném, tunovém „těle“. Co tažní ptáci, mají své „tělo“ rozestřeno přes kontinenty, za mořem, od pólu k pólu? Mezi hvězdami, povídá se, plují ve vzduchoprázdnu celé gigantické oceány zmrzlé vody. Občas se uvolní ze vzájemných drah balvan ledu a bahna a jako kometa se rozletí ke slunci… Říká se.
 
-  
+</section>
+
+<section>
 
 Na obrazovce monitoru zůstala malá, rozevřená knížka, nějaká sokolská legitimace mého děda. Kliknutím zvětšuji obličej, dívám se do těch velikých světlých očí…
 
@@ -611,29 +715,41 @@ Hledím skrz tu tvář, kterou jsem nikdy nepotkal, nezažil. Její rysy se na m
 
 V oceánu času se pohnulo tělo nějakého nepojmenovatelného života…
 
-  
+</section>
+
+<section>
 
 Vařím si noční kávu. Naslouchám tichému hromadění energie a napětí ve varné konvici. Zpívá… Vydechla páru. Cinkám lžičkou do ticha. Vzduchování u akvária tiše vrní. Bubliny vzduchu se hromadí pod listy vodních rostlin, když to už stonek nevydrží, ohne se a velká dušička pukne na hladině…
 
-  
+</section>
+
+<section>
 
 Takhle, takhle jsem dopadl, když jsem se zahrabal na pár týdnů do té dávné a smutné historie. Jak mám naložit s těmi informacemi, z nichž žádná není potvrzená a nezaujatá?… Stařičký, vitální pan Brůžek, močící jak mstitel Zorro do cizích klíčových dírek, nechávající hovna na rohožkách před cizími dveřmi – ten mi zůstavil podivuhodnou zprávu o mém dědečkovi, o nějž usilovala Třetí říše, on byl ve spojení s Ing. Formisem, rádiovým odborníkem, měli společně spolupracovat na tajném projektu rádiového řízení raket. Na internetu jsem se dočetl, že Ing. Formis byl ve spojení s Georgem Strasserem, což byl jeden ze zakladatelů nacistického hnutí, jež se nakonec odštěpilo od Hitlera, odešlo do ilegality a nakonec za hranice, říkali si „Černá fronta“. Tenhle Strasser, jeho bratra nechal Hitler zavraždit při „Noci dlouhých nožů“, podporoval finančně a organizoval odboj proti hitlerovcům, psal posléze v Americe posudky pro OSS na nacistické pohlaváry, především se vyznamenal psychosexuálními postřehy ze života Adolfa H.
 
-  
+</section>
+
+<section>
 
 Faktem je, že dědu vozili na odlehlá místa, kde ho přesvědčovali… říká se tomu: přebourat, zbourat agenta. Měli o něj zájem a nechtěli, aby se o tom vědělo. Takhle nepracovalo gestapo, takhle si hrát, tolik času… Nevím.
 
-  
+</section>
+
+<section>
 
 Ta vražda Ing. Formise ve Štěchovicích, to najaté komando, ty pozvánky na německé velvyslanectví a nabídky německého občanství… spolupráce s německými průmyslníky už hluboko od dvacátých let… A ten major StB, manžel odrodilé tety Důbravky, s tou svojí zprávou – že dědeček byl v nějaké odbojové organizaci…
 
-  
+</section>
+
+<section>
 
 Nakonec zůstal ten štůsek prošlých cestovních pasů z třicátých let v archivu Policejní spisovny. Čtyři nebo pět exemplářů – stránky mají bohatě orazítkované, stovky razítek, za protektorátu taky… Fialová a rudá žhne z těch zelenkavých stránek. Jak razítko na mase… Tohle není obyčejná frekvence cest. Děda musel takřka každý týden jezdit ven, mimo republiku. Přitom pracoval na tom vývoji plovoucího tanku pro ČKD… Jezdil. Hodně jezdil. Všechno to byly průmyslové oblasti v německém a českém příhraničí…
 
 Babička vyprávěla, že ke konci vykouřil šedesát cigaret denně a taky si nechával v nějakém obchodě s kávou, v pražírně na Příkopech, umlít půl kila kávy, to měl na týden…
 
-  
+</section>
+
+<section>
 
 Žil naplno… Zemřel jako tichý, neznámý hrdina. Obyčejný, slušný člověk. Sůl země.
 
@@ -641,7 +757,9 @@ Babička vyprávěla, že ke konci vykouřil šedesát cigaret denně a taky si
 
 Je půl čtvrté. Za chvíli bude svítat. Rybařík, můj děda jako takový menší nenápadný ledňáček obcházel kolem břehů řek a tůní. S bambusovým prutem číhal v rákosí. To byly jeho chvíle. Cigaretový kouř stoupal z vrbiček, v šeru sedící nehybný lovec. Příjemce ticha. A držitel tajemství tekoucích odlesků a vůní obnažených břehů, když kořeny stromů, co vrostly do vody, jsou zrudlé studem… Vůně obnažených břehů.
 
-  
+</section>
+
+<section>
 
 Náhle poznaná snadnost mi vlila krev do žil. Co dělá rybář? Jde do krajiny, za šera či za jitra. Tak i lovec se krade houštím. Protože zvěř, divoká zvěř má v těchto chvílích probuzené srdce. Proč pořád sedím u knih anebo putuju po síti, po větvících se informacích, v tunách balastu občas najdeš živou perlu…
 
@@ -665,7 +783,9 @@ Zvedám hlavu a skrz větve stromů hledím na zářící nebe plné hvězd. Mr
 
 Píčák… potichu se směju. Chodím po lese a koukám na hvězdičky, co by řekli ti známí dejme tomu, co u mě hledali jakousi oporu pro jejich malé lži. Jenže já byl vždycky takový a nikdy ten, co si o mně kdekdo vymyslel. Odjakživa jsem psal na lidstvo jeden dlouhý obžalovací spis. A pouze proto, abych mohl sebrat usvědčující materiál, jsem se stavěl takovým jako oni, ne – jako oni ne, to by poznali, po čichu by poznali, po feromonech… byl jsem „divnej excentrik“. Ach, taková chýra. Kdyby se dověděli, jak miluju ticho a klid, obyčejný nenápadný život… tak by chcípli nudou, ti srabi!
 
-  
+</section>
+
+<section>
 
 Už jsem zde, poznávám to tady. Veliký dub, jeho koruna, ty černočerné větve zarůstají přímo do tmy mezi hvězdami…
 
@@ -675,7 +795,9 @@ Kdesi v dálce za řekou zakokrhal první kohout. Sedím uvolněně a nehybně
 
 Po chvíli, co jsem usedl a znehybněl… ožil les okolo mne. Kdesi docela blízko, mám pocit, že černá zvěř se hnula dál ode mne, potichu se přesouvá do bezpečí… Drobný život v suché trávě, hraboši nebo myšky nespí a kupodivu čile přebíhají v suché, šustivé trávě.
 
-  
+</section>
+
+<section>
 
 Myslí mi proběhla náhlá, z hloubky vylezlá myšlenka: Z několika pramenů, spolehlivých zdrojů, částečně i publikovaných, je známo, že s materiály německých bezpečnostních složek pracovaly obě strany… nejen po válce, to už sklízely ovoce té černé žně… Obě strany měly své lidi na všech možných úrovních státního aparátu, to se týká především zpravodajských organizací.
 
@@ -685,14 +807,20 @@ Leimer vedl oddělení proti komunismu a po likvidaci českého komunistického
 
 Co nebo kdo, když byl takový poválečný hlad na obou stranách po raketové technice? Může být někde, na některých dokumentech stopa po mém dědečkovi? Nejen tedy plovoucí tank, brumlající pancéřová lodička s otočnou věží a těžkým kulometem, podivný stroj – obojživelník plánovaný do tropických bažin a do Nizozemska, na jeho písčiny a vodní zálivy… Ale taky rakety? Je to možné? Tank byl v podstatě hotový, dva funkční prototypy, neustále vylepšované, stály v montážních halách odzkoušené… Tak proč tak usilovně stáli o dědečka? Jsou někde v Rusku stopy v archivech? Jedno ale vím hned, po linii „Gestapo–Moskva“ se nic nedovím. To by se muselo jinak, od lesa. Z druhé strany, jak se říká, zkusit, jestli něco někde neuklouzlo na Západ, nějaká šeptanda, jenom najít vodítko… Nevím, to studium potenciálních pramenů, tolik balastu a dezinformací. To podstatné mají zvlášť Rusové utajené dodnes. Jen tak, ze sportu. Kvůli sebevědomí. U Ameriky takřka to samé, akorát tu a tam je vidět fotku asi dvou set německých vědců přivezených v rámci akce Paperclip po válce do USA. Archivy, nacionální pohnutky… mor! Ne, touhle cestou nepůjdu. Utopit se v prachu a žvástech.
 
-  
+</section>
+
+<section>
 
 Zvolna dýchám chladný vzduch. Les vstoupil do mých plic. Buňky postupně odplavují stresové látky. Dívám se do dálky, do světlé tmy v dálce nad Prahou. V té naší kotlině je všechno tak blízko. V Čechách…
 
-  
+</section>
+
+<section>
 
 Tak uběhla tichá hodina. Zvedl jsem se k odchodu, ještě chvíli se rozhlížel po světlém, bezlistém zimním lese. Kmeny stromů, jejich rozeklané větve se tměly proti nazelenalému nebi. Tma řídla, hvězdy slábly a mráz se do mě zakousl, nevzal jsem si rukavice. Rozbřesk, jeho první bledé světlo pomalu bloudí v mrazivých mlhách nad obzorem…
 
 Tu náhle, tak nečekaně prolétlo jakési velké tělo neslyšně mezi kmeny. Zahlédl jsem široká skvrnitá křídla. Sova… Zmizela stejně náhle, jako se objevila. Tohle je její čas. Před svítáním, v hebkém peří, tichá myší smrt.
 
 Jdu zpátky po svých stopách v křupající jinovatce na zmrzlé trávě. Jdu a kdesi v dálce je slyšet skřehotavé soví zasmání… potom odkudsi, z jiné strany, zahuhlá kdosi v odpověď. Mají teď, smrtě, mají období lásky…
+
+</section>

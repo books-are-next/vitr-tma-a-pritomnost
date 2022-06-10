@@ -3,8 +3,6 @@ title: Kapitola 2 Život
 contentType: prose
 ---
 
-  
-
 Ahoj, Petře! Ten duben, to je dobrej čas. A vejlet v Brně s Tebou a Hon­zou… už teď mi je z toho nápadu dobře! Určitě to uděláme.
 
 Právě dnes mi ambulantně vyřízli z obou očí (víček) po jednom ječném zrnu a obdržel jsem poukaz na brejle (na čtení)… Ještě mi schází hůl a takový ten dušný, stařecký hlas (pracuje se na tom, tuhle zimu mám pořád podrážděné průdušky). Asi brzo začnu stavět (na půdě nebo ve sklepě) létající talíř. Abych včas odletěl, než přijdou strázně a chmury stáří. Uvidíme… Třeba mě postihne nějaká forma demence a budu ržát štěstím, sedě na „gramofónu“ – když přede mnou přistane talíř s krupičnou kaší.
@@ -64,8 +62,6 @@ Nakonec mě pohltil zášleh hluboké potřeby chránit samotné nitro mé osobn
 Posílám do noci tato slova: Říkali mu od dětství: Jsme – Člověk. A zvedali k němu krutou zvířecí tvář. Lstivýma očkama pátrali, zdali jim naletěl… hledali v jeho bezelstném obličeji charakteristické známky, že tu jejich lež – jim „sežral“. Z nějakého, možná i jim neznámého důvodu potřebovali – aby jim věřil. Říkali: To je život. A vypadalo to, jako když smečka hyen se rve o mršinu. Vytáhli mordu z útrob mrtvoly a s ještě zkrvavenou tváří se pokusili o úsměv. To bylo to nejhorší.
 
 – – –
-
-  
 
 Měl jsem práci v tyhle dny. Luisa, moje dávná známá, láska mých mládeneckých let, jelení samice – ladná laň, potřebovala rychlou intervenci. Potřebovala pomoct se stěhováním, končil bouřlivě jeden z jejích hlubokých vztahů…
 
@@ -159,8 +155,6 @@ Tančíme s Luisou v srdečním rytmu, přidala se k nám Luisina známá, zp
 
 – – –
 
-  
-
 Takhle si tedy věci stojí. Někdo se zřejmě, nevím proč, o mne zajímá. Nejdřív nabídka, pak varování, pak série dalších výstrah u Trafačky.
 
 Navíc tuhle večer v divadle Bárka, na pořadu spřátelených kolegů a známých, seděli jsme po představení v divadelním baru. Nějak šla řeč o náccích, vlně pravicových hnutí objevujících se v Evropě poslední dobou. Podotkl jsem, že tyhle vlny se objevují pokaždé, když je potřeba nějak odvést pozornost lidí od jiných témat. Latentní fašismus a extrémní patriotismus je dřímající bestialita v každém z nás. Ale tyhle mediální akce nesou stopu uměle navozené informační psychózy. Za příklad jsem dal počátek devadesátých let, kdy – podle ověřených zpráv – byly policejní a zpravodajské složky státu zahlceny imaginárním honem na „levicový extremismus“, nikde neexistující hrozbu, leda že by šlo za hrozbu považovat schůze a mítinky rudých důchodců. Nepatrně zvyšuje hlas, pronesl jsem, že těch starých komunistů si vážím pro jejich oddanost přesvědčení, ale ty své vrstevníky – ty dříve svazáky a nyní členy ODS, ty bych hnal svinským krokem někam do leprosária, někam na opuštěný ostrov, ať si tam rejdí v růžových hummerech a navzájem si kradou z drštěk zlaté zuby. Že by to byl docela dobrý sociální experiment, dát jim tam vše k obživě, k práci, stroje, informační banku vědomostí, a odletět z toho ostrova ztraceného v Tichém oceánu a vrátit se za dvacet let. Co bychom tam asi našli?
@@ -233,8 +227,6 @@ A „Jařmo“ dostává od dnešního dne jméno „Línání“, když je to 
 
 – – –
 
-  
-
 Bože! Musím jít dál do času. Dovnitř a hlouběji do své bytosti. Paměť mi vyplavila ze svých uzavřených archivů jednu, vlastně několik navzájem zřetězených vzpomínek.
 
 Bylo to před šesti sedmi lety. Vlahého květnového večera šli jsme, co noha nohu mine… procházeli jsme se s Luisou po Petříně. Dýchající tma jejích polibků, ta záplava jejích hustých vlasů na mé tváři, dovolovaly mi jen chvílemi myslet a dívat se na svět okolo sebe. V hlubině zorného pole se rozprostírala světla Prahy, zčernalé siluety kostelů a továrních komínů na obzoru se pomalu rozmývaly, rozpouštěly v temné modři jarního soumraku.
@@ -298,8 +290,6 @@ Přesně jsem si vzpomněl na ten temnej stín tenkrát v Béďově tváři. Na
 Nyní, takřka po deseti letech, cítím, že mám mandát. Nebude to pouhá zvědavost. Cítím sílu pro přijetí vyšší pravdy… A nebudu „meč spravedlnosti“.
 
 – – –
-
-  
 
 Stojím na rozlehlé terase Národního muzea. Modravý podvečer, smogem zrnitý – hučením města prostoupený vzduch – přináší v náhlých závanech vlahou lehkost jara.
 
@@ -1778,8 +1768,6 @@ Alain Delon se zvednul a položil na stůl stovku, prstem ukázal číšníkovi
 Vůně tabáku a nějaké kolínské pominula tak náhle, že něco v Láďovi by se za tím nejasným pocitem, za tím příjemným hlasem rozutíkalo ještě dnes.
 
 – – –
-
-  
 
 Zvedl jsem se od stolu a otevřel okno. Ve tmách pod nebesy svítilo město. V bytech pomrkávaly obrazovky televizí a monitorů. Občas se někde pohnul člověk. V ulicích u bývalého přístavu hlučely skupinky mladých turistů, je zde plno levných ubytoven a hostelů.
 

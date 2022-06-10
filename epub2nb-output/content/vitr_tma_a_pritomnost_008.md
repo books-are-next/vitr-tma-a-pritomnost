@@ -3,8 +3,6 @@ title: Kapitola 3 Byl
 contentType: prose
 ---
 
-  
-
 Dívka stála na tramvajovém ostrůvku. Bylo to u Výstaviště, poblíž Parku kultury a oddechu Julia Fučíka.
 
 Stromovka – koruny velkých stromů prodlužovaly svůj stín v podvečerním slunci. Z hlavní aleje jak z nějakého šťastného pekla proudily rozprávějící skupinky psovodů, osamělí běžci a – rychlé postavy (máchající přitom celým tělem) na kolečkových bruslích.
@@ -280,8 +278,6 @@ Když jsem se vrátil do postele, k tomu teplému jadérku v přikrývkách, d
 Jenom tak špitla: „To nic, toho si nevšímej… Víš, já jsem šťastná.“ A přivinula si mou ruku na hruď. Přilehl jsem k ní a zezadu ji objal. Usnul jsem v jejích vlasech, dodnes spím a naše srdce srostla a tepou zároveň. Všechno předtím i potom je jenom sen.
 
 – – –
-
-  
 
 Tuhle zimu jsem v trafice na rohu dal řeč s šouravým staříkem. Tak nějak to prostě vyplynulo – byl nakoupit a jeho fenečka Evička se šťastně motala prodavačce a mně pod nohama.
 
@@ -771,8 +767,6 @@ Stal se z něj pouze jakýsi „známý“.
 
 – – –
 
-  
-
 Motorák kodrcá na kolejích. Putujeme po výhybkách k černým nozdrám vinohradského tunelu. Za vršovickým nádražím vydechnu a cítím závan mladého horkého léta. Na stolku u okna mám krabici s bublaninou, od mámy. Je všední den, ještě nenastaly prázdniny – tak ve vlaku sedí jen pár starších trampů, několik hovorných babiček a mlčenlivých dědů… Jedeme na Sázavu.
 
 Dívám se do městské krajiny, do travnatých úvozů okolo tratě. Klesáme dolů, do Braníka a do Modřan. Slunce střídavě nahlíží dovnitř motoráku. Ze spuštěných oken vane ve stinných místech, v akátových hájích protéká vagonem svěží chlad. V prosluněných otevřených koridorech oprýskaných zdí, mezi areály opuštěných továren a zpustlých, ladem ležících zahradnictví čekají záplavy horkého vzduchu. Sálavý rzivý dech rozpálených plechů na střeše.
@@ -820,8 +814,6 @@ Když jsem vyplnil dvě popelnice odpadem, vyplašil celou armádu těžkých ma
 Ten „Ezechiel z Osadní“ nebo „holešovický Malachiáš“ – stařec s elektronickým mozkem, to je pro člověka z masa a kostí příliš tvrdá, život krátící bytost.
 
 – – –
-
-  
 
 Sedím v motoráčku a jedem vstříc horkému letnímu dni. Ve skalnatých soutěskách nad řekou, v hustých stinných lesích rachotí souprava proskleného, dieselového vlaku.
 
@@ -1114,8 +1106,6 @@ Zamyslel se a obličejem mu přelétl stín: „Ještě – ten princip, ktere
 Koleje na trati začaly klepat a tikat. Někde v dálce, za ohbím lesnatého kopce zahudral blížící se vlak.
 
 – – –
-
-  
 
 Je vrcholné horké léto. Takřka každý večer je malá bouřka, pak dlouze prší a tiché blesky rozsvěcí nebe. Ráno stoupá pára z parků a zahrad. Město se nadechuje k dalšímu rozpálenému dni. Plechové střechy, asfaltové chodníky a fasády domů v odpoledním žáru žhnou nastřádaným teplem. Vzduch se vlní a na silnicích se chvějivě přeskupují zrcadlivé kaluže ohřátého vzduchu jako tekoucí rtuť.
 
@@ -2046,8 +2036,6 @@ Jenom takový malý detail – potřebujete k tomu „silnou motivaci“, tzn.
 Pravdu měl též jeho autor – starý dvorní rada, který měl rád mladé dívky v rozpuku, přátelil se s chebským městským katem Hussem a vyměňoval si s ním sbírky minerálů… a jenž si dal v den své smrti, oproti radám lékařů – pečenou studenou koroptev a víno.
 
 – – –
-
-  
 
 Je rozbřesk tichý, mokré stromy a křoviska vydechují oblaka páry po nočním dešti… Muselo to přijít někdy k ránu. Usnul jsem na kanapi, nechal jsem běžet počítač – jen jsem si tak na chvilku natáhnul záda… Monzun naplnil město říční vůní, bahnitým odérem z kalné, mohutně tekoucí řeky. Pod košatými pajasany tečou hnědé kaluže plné rozbředlých květů… Slunce vychází někde za nízkými mraky – vypadá to, v tomhle dusném světě, jako za dinosaurů.
 

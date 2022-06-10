@@ -3,8 +3,6 @@ title: Kapitola 6 Sovy
 contentType: prose
 ---
 
-  
-
 Naposledy jsem se ohlédl… Na ostrůvku uprostřed autobusového nádraží Praha-Florenc. Stojící kráčmera v šustivém utíkáčku, v bludišti nástupišť a červenobílých kovových zábradlí.
 
 Podíval jsem se ještě jednou na ježatý horizont města, na svahy Žižkova, na antény a komíny. Obkroužil… jak šedomodrý racek obletěl můj zrak cihlovou, mokvající hradbu Negrelliho viaduktu. Prostudoval jsem výhybkářovu prachstarou chatičku, tyčící se uprostřed kolejí, ve výškách nad Hudebním divadlem Karlín (opět dávají Polskou krev – stejně jako před třiceti léty, kdy na zadní straně divadla, jež byla přikloněna k autobusovému prostranství, byla namalována veliká silueta krásné ženy, ta záhadná elegantní dívka se jmenovala Hedva Tanvald).
@@ -270,8 +268,6 @@ Každý aspekt skutečnosti je obklopován nekončícím oblakem asociativních 
 Bludné jazyky, lingvistika a historie neexistujících, hypotetických světů – které plodí tento umělý polobůh ve své nepochopitelné mysli… to vše v každém okamžiku zaniká a znovu povstává vždy v nové, originálnější a životaschopnější formě. Cestou pokus–omyl na úrovni lidských jednotlivců uskutečňuje tento planetární organismus „svou“ budoucnost… Uvidíme – jestli je možné, aby v nějaké formě existoval člověk – jako autonomní bytost.
 
 – – –
-
-  
 
 Berlín. Velký, rozsáhlý – slitý do několika obřích světelných shluků, které se zrcadlí v zamženém nočním nebi… Ta noční světelná mapa, odraz rozzářených ulic, náměstí a autostrád – visí ve vlhkém vzduchu, rozprostírá se nad borovicovými lesíky a tmavými jezery. Jeho zář vykresluje černé siluety stromů, na loukách, na mýtinách dubových hájů.
 
@@ -697,8 +693,6 @@ Kontroluji čas, za hodinu budu v cíli své cesty.
 
 – – –
 
-  
-
 Stojím v prosklené gigantické dvoraně. V zastřešeném skleníku pro dinosaury jsou menší kancelářské budovy, nahoru a dolů jezdí kabiny výtahů, na eskalátorech putují lidé mezi autobusovým a vlakovým nádražím, stanice metra a rychlé spojení na několik okolních letišť vytváří základní komunikační uzel Stockholmu.
 
 V podzemí Cityterminalen jsem se umyl a osvěžil v prostorných, superčistých umývárnách… Sedím teď na lavičce pod košatou palmou a hledím na prostor východu z metra, za chvíli má dorazit Pavel… Podle času už dávno přistál na letišti, určitě se někde prochází po městě, robotí hlavou katalogizuje okolo chodící dívky a mladé ženy… některé osloví svojí obstojnou angličtinou. Jak ho znám, bude někde sedět v rohu kavárny a pokuřuje elektrickou cigaretu, vyhlíží své samičí oběti.
@@ -826,8 +820,6 @@ Beru si od Pavla inhalátor, uléhám vedle Leoše a „Objekta“. Zavírám o
 Začalo období snění.
 
 – – –
-
-  
 
 Praha, říjen 2012… Je to pár týdnů, co jsem se vrátil z cest. Chodím teď často na večerní procházky… Je to ta nejdůležitější činnost v dnešním světě… Mozek, když dosáhne zklidnění – otevře brány do hlubin času.
 

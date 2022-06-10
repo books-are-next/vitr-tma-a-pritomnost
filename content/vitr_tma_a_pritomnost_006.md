@@ -3,8 +3,6 @@ title: Kapitola 1 Můj
 contentType: prose
 ---
 
-  
-
 Sedím v autobuse 213, krouživě protíná křižovatku u Koh-i-nooru, přejíždí železný most nad posunovacím nádražím a stoupá na Bohdalec. Nechávám za sebou kouřnaté dno vršovického údolí a oddávám se myšlenkám.
 
 Jak je to jiný čas, úplně – až do morku kostí, do buněk, v molekulárních strukturách žiju jiný, další život. Deset let čekám na kamaráda smrt, a on nepřichází. V dětství jsem mu párkrát pohlédl do očí a teď vidím – že musím žít. Nebráním tomu. Možná to je dluh za tu krásu, tady v těch místech za nádražím, v Přípotoční ulici, se mi rozsvěcel život a já sál vůně této jarní a podzimní planety.
@@ -107,8 +105,6 @@ V paměťové kartě mám pár megabajtů informací a před očima šedivé l
 
 – – –
 
-  
-
 Už řadu let jsem přemýšlel nad náhlou a podivnou smrtí mého dědečka. Postupem času rostly a hromadily se informace, až to dostávalo obrysy úkladného činu, jedna z mnoha nenápadných tragédií na hlubokém a temném pozadí války.
 
 Babička, když zestárlá a slaboučká dožívala svůj vysoký věk, a já – její vnuk na prahu dospělosti, trávil jsem s ní letní prázdninové dny na chatě u Jizery, ohříval jídlo navařené na týden dopředu mými rodiči, dohlížel jsem na stařenku… Sama se ještě obstarala, ale ztrácela pojem o čase, byla takřka neustále u svých mladých let, byla v nich zanořená a jen občas komunikovala se mnou o věcech tady a teď. Už nabírala vítr, už zvedala křídla a nechávala vzduch zpívat ve svých perutích… Stará velká labuť se chystala na svoji poslední pouť.
@@ -175,8 +171,6 @@ Tu můj veselý otec, nejmladší ze sourozenců, povídá, obraceje se na nás 
 
 – – –
 
-  
-
 F-IV-H, lehký obojživelný tank. Někde v bytě, v zadním pokoji, někde v těch skříních, možná v tom prádelníku musí být ta stará nazelenalá fotka. Najdu ji, musím ji najít, nedávno získané informace o okolnostech smrti Ing. Kratochvíla oživily a probarvily tu starou rodinnou relikvii, jež byla pořízena za podivných okolností. V dětství jsem ji vídal, když za příbuzenských srazů, za babiččiných narozenin, se celá široká rodina sešla a my, mladí bratranci, jsme mohli trochu kramařit v šerém zadním pokoji. Bylo to takové staré, vyrudlé album, které spolu s vánočními ozdobami, s černými a rudými čerty ze štětinatých drátků, s letadélky z vybledlých skleněných perel spočívalo v některé z hlubokých šuplat toho prachstarého prádelníku. Později nad těmito artefakty potichu zvítězila černovlasá dlouhonohá panna – modelka, měla přes vyvinutá prsa přehozenu rudou šerpu s nápisem Miss Hong Kong 1956.
 
   
@@ -225,8 +219,6 @@ Až v morku kostí jsem pocítil pohyb, skokový nárůst entropie. Horizont mo
 
 – – –
 
-  
-
 Opatřil jsem si tiskárnu a skener. Levně a rychle. Je noc a já zkouším, co to umí. Tiskárna je jasná, tomu rozumím a nechávám vše nastaveno automaticky. Ale skener je hodný soustředěné pozornosti. Vkládám do něj různé obrázky, fotografie a dokumenty, zkouším různá rozlišení a ostrost… Hraju si.
 
 Potom jsem zvážněl, rozevřel jsem knihu Ztracený svět, autoři Augusta–Burian. Od dětství se mi vrací touha po jedné tušové, rozmývané kresbě Zdeňka Buriana. Temné, hluboké moře. Zpěněné hřebeny ostrých mohutných vln. Někde dole, ve stříkající slané pěně spolu zápasí dva předvěcí netvoři, jeden má dlouhý krk s malou ozubenou hlavou, další je mohutný mořský krokodýl. Vzduch je plný pterodaktylů…
@@ -242,8 +234,6 @@ Slunce na chvíli vystoupilo z cárů mračen a ozářilo mořskou hladinu, ro
 To bylo dávno, pod jiným nebem, za jiného úsvitu časů. Miliony a miliony let uběhly, než na Milešovce, za mlžnatého odpoledne, na spojovacím stanovišti Československé lidové armády přetáhl voják svoji předkožku a stoje na stráži v křoví pod rozhlednou se za vzdálených dívčích hlasů pořádně vystříkal do dálky. Směrem ku Praze.
 
 – – –
-
-  
 
 Je sychravo, blíží se vlhký, zešeřelý podzim… V korytech ulic tečou červenobílé siluety tramvají, hrozny lidí na zastávkách. Dlažba se leskne a první okna a výklady obchodů se rozsvěcí do kalného odpoledne.
 
@@ -345,8 +335,6 @@ Georg mi vyprávěl, jak kdysi, když zemřel jeho otec, po letech osamění sta
 
 – – –
 
-  
-
 Je to nedokončené. Cítím tu nedotaženost v kostech. Musím tu cestu za informacemi, za tím šerým obrazem minulosti, dokončit. Abych se toho zbavil. Ten kus smutného odkazu – ta smrt dědečkova – začal na sebe nabalovat přítomnost. Jako nějaký matečný krystal, nějaká prvotní atomová vazba, počal řetězit příčiny a jemné, takřka nehmatné důsledky téměř nulových hodnot, které ale – díky své diskrétní, nicméně hmotné přítomnosti – zasahovaly přímo do mého každodenního života.
 
 Je nutné, teď už to vím, zapojit osobní kontakty. Zkrátit ta bludná toulání s požadavky na byrokratické instituce. Léta bych mohl strávit šustěním papíru v archivech. Skončit jak suchá moucha v pavučině za oknem…
@@ -376,8 +364,6 @@ Suřík nesouhlasně vrtí hlavou: „Já mám rád, když to tam je pěkně zas
 Jdeme kus po Korunní, a tak mu ještě říkám: „Todle mě opravdu sere, jak to tady vypadá, že v tomhle státě může každej krást a rozkrádat, vždyť se tady nic neprodukuje, jenom se rozkrádají státní prachy, zakázky… veřejný rozpočty dotujou celou generaci lupičů. Proč to nikdo nezastaví? Nejsou tu lidi, není tu jednotící síla uvnitř státního aparátu? Z toho jednou povstane masakr a lidi budou chtít krev. Už to tady několikrát bylo, kurva! V Rusku se dodneška z toho vzpamatovávaj. Nejdřív je hlubokej bordel, chaos, leželo to na zemi, a kdo to zvednul? Ten, kdo to zvednout dokázal, kdo to uviděl… Rusové maj takový pořekadlo: Co se stalo – to se mělo stát… Já říkám jako ty německý filozofové – zrodí se nika, vytvořily se podmínky, aby mohl vzniknout takovej a takovej systém, a takovej a ne jinej predátor do tý niky vleze a od tý doby to jede…“ Trochu poznenáhlu znejistělý svým hlasem – slyším sama sebe, jak pronáším soudy. Suřík mlčí, pak říká: „Když jsem dělal na vnitru, tak jsme odtam vyházeli ty bolševiky, co měli ty ruský školy Felixe Dzeržinskýho a tak. No, ale tím pádem tam zůstali ty průměrný z minula, ty odborníci na různý oblasti ve světě odešli, specialisti na orientální jazyky, prostě ty vyšší kádry šly pryč a zůstaly takový ty průměry, a pak samozřejmě technika a sledovačka, to jsou profíci, bez nich by se to nedalo vůbec dělat… Ale ta díra tam byla, v těch odbornostech, pomalu se to zaceluje, ale… Pořád je znát ten deficit.“ Neudržím se: „Kurva, to je smutný, že tam nemáte, nebo jste neměli někoho, kdo mluví persky, ale to se snad dá doplnit lidma ze škol, když je zaplatíš… Ale já mluvím o tý špíně tady, co dělá ekonomická kontra? Existuje taková složka vlastně? Je tam někde uvnitř státního aparátu síla, vůle řešit ty děsivý průsery, co se dějou už léta? Proč se nic neděje, kurva? Vždyť by stačilo pár hajzlů pověsit za koule pro výstrahu. Vyslat signál, a to mi věř, ty svině jsou v podstatě zbabělý, samy by se nabonzovaly, samy, když jim pude o život, samy půjdou a daj si obojek na krk!“ „Tyhle sračky nepůjdou uklidit jen tak, to je jedna celá generace hajzlů se svazáckou knížkou a s pravicovejma kecama. Jsou zarostlí ve státním aparátu, maj kontakty, kurva, dyť by stačilo vyhlásit pár fingovanejch státních zakázek, nasadit provokatéry, a za půl roku bude ta lůza pod zámkem, jedná se o několik tisíc lidí, spíš pár set…“ Suřík pojednou začíná bejt nervózní a vrtí hlavou: „Takhle se to nedělá, to by byla válka, musíme mít lidi, který ty hajzly chytnou za ucho a zatřepou, aby už nekradli a nedělali lumpárny, ale nemůžeme tam mít zvířata, který chytnou člověka a…“ „…a to ucho mu sežerou… Jenže nakonec přijde doba, kdy se vytvořej podmínky, aby se tyhle zvířata pustily ze řetězu, a věř mi, že pak bude důležitý, koho se ty běsi budou bát, to jsme zpátky v padesátejch letech, ve středověku, nebo spíš v době kamenný…“ Suřík krčí rameny a je vidět, že tohle téma nechce dál rozvíjet. Je mi to jasné, má rodinu, děti a na rozdíl ode mě byl uvnitř toho aparátu, a tak zná – pachovou stopu, feromony zla, které jsou tam přítomny v každé vteřině… Určitým věcem se nemá jen tak zbůhdarma – dávat jméno. Přijdou pak síly a ten, kdo nemá mandát, kdo nevlastní čisté srdce… Sežerou ho zaživa.
 
 – – –
-
-  
 
 Za deštivého, šedivého dopoledne – pečlivě volím dobu 10:15 až 10:30, telefonuji na ta Suříkova čísla. Zvedá to tichý, sympatický hlas – nějaký postarší chlapík, asi tak mého věku. Zasvěcuji ho do problematiky stručně, jo, říká – Suřík ho už informoval, že budu volat. Podívá se na to, zavolá mi. Mezitím mám za úkol napsat na webové stránky ústavu e-mailem dotaz, kde mám podrobně uvést všechny skutečnosti, které by mohly vést k identifikaci písemností majících vztah k osobě mého děda nebo k jeho případu. Doporučuje mi, abych si přišel k nim prostudovat objektový svazek ČKD (Českomoravská Kolben–Daněk), mají tam toho několik metrů, tak snad to by mohlo být vodítko. Děkuju mu srdečně a slibuju, že nejpozději pozítří přijdu do té studovny.
 
@@ -426,8 +412,6 @@ V knihovně Vojenského historického ústavu (když jsem se objednával do stu
 Nakonec mi v hlavě vyvstala věta, kterou podle jednoho svědectví z šedesátých let pronesl jistý pracovník vojenského ústavu. Ten člověk, ta temná bytost byla za II. světové války v Rusku a pracovala v tamních bezpečnostních složkách. Podle publikovaného svědectví pronesl tento pracovník Kohoutek někdy za brzkého jitra roku 1948, řekl do telefonu tato slova: „Pérák už doskákal.“ Bylo to v den smrti Jana Masaryka.
 
 – – –
-
-  
 
 Dotáhnu to, kam to půjde, i když cítím mezi prsty sypký písek marnosti. Pouštní prach.
 
@@ -549,8 +533,6 @@ Na konci času, v ulici prázdné sluncem a dopoledním povětřím, zapálím
 
 – – –
 
-  
-
 Soumrak padá, přitéká do této krajiny jak voda z nějakého temného moře. Město, bloky domů v ulicích se rozsvěcí… tisíce bytů a kanceláří. To je tam, za oknem.
 
 Zalévám čaj v konvici horkou vodou. Dívám se, jak ve skleněné nádobě klesá ze sáčku rudohnědý oblak. Jak ten tříslový libovonný výluh se podobá světu tam venku.
@@ -656,8 +638,6 @@ Babička vyprávěla, že ke konci vykouřil šedesát cigaret denně a taky si
 Žil naplno… Zemřel jako tichý, neznámý hrdina. Obyčejný, slušný člověk. Sůl země.
 
 – – –
-
-  
 
 Je půl čtvrté. Za chvíli bude svítat. Rybařík, můj děda jako takový menší nenápadný ledňáček obcházel kolem břehů řek a tůní. S bambusovým prutem číhal v rákosí. To byly jeho chvíle. Cigaretový kouř stoupal z vrbiček, v šeru sedící nehybný lovec. Příjemce ticha. A držitel tajemství tekoucích odlesků a vůní obnažených břehů, když kořeny stromů, co vrostly do vody, jsou zrudlé studem… Vůně obnažených břehů.
 

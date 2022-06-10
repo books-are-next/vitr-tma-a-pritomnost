@@ -3,8 +3,6 @@ title: Kapitola 4 Noční
 contentType: prose
 ---
 
-  
-
 Dnes jsem zhlédl na YouTube zajímavé dokumentární filmy. Jsou to krátká videa věnovaná jednomu druhu mikroskopických hub. Hlenky (tak se nazývají) se shlukují při cestách za potravou v celé kolonie, které vytvoří z desítek tisíc jedinců samoorganizující se útvar (jakéhosi slepého „slimáka“), jenž jim slouží k překonání větších vzdáleností. Podivná slizovitá, okem viditelná bytost se tápavým pohybem vydá na cestu. Součinnost těch tisíců neviditelných hub je neuvěřitelná.
 
 Když se dostanou do místa, kde je dostatek potravy – tehdy se „slimák“ rozteče, rozbředne do rychle bujících sítí mycelia a první generace plodnic může produkovat výtrusy zárodečných buněk – které vanoucí vítr brzy odnese do atmosféry a ony se stanou součástí oblaků pylu, kde spolu s dalšími organismy a pouštním pískem budou obíhat planetu a čekat na příležitost.
@@ -102,8 +100,6 @@ Rachotivá krabice mě unáší nočním městem. Spolu se mnou jede parta squat
 Spíme všichni – dokud žijem, a probouzíme se, když umíráme.
 
 – – –
-
-  
 
 Je horký červencový den, s Emanuelem máme sraz na Kulaťáku. Na rohu u mléčných lahůdek vidím z tramvaje, která přijíždí do stanice, postávat černovlasou nosatou postavu. Eman se směje a já na pozdrav kradmo salutuju. Nemohu odolat a zvu dovnitř k návštěvě jídelny. Dáváme si patnáct deka vlašského salátu a dva rohlíky… Eman se zdržel u pokladny, a když zaparkoval naproti mně u jídelního pultu, nenápadně odklopil víko kabely, kterou má pořád „na dohodu“ přehozenou přes hrudník. Uvnitř mošny na nás zamrkala velká litrová lahev Ballantines.
 
@@ -429,8 +425,6 @@ Voláme do tmy: „Jsme písnička, jsme pohádka!“ A v nitru se ptám, zdal
 
 – – –
 
-  
-
 Sedím v letadle, letíme nad Německem, je jasná obloha – z výšky deseti kilometrů hledím na dýmající elektrárny v Porúří. Jejich bílý dým stoupá, ty kadeřavé věže jsou lehce unášeny větrem, vrhají stín v ostrém ranním slunci… V určité hladině, dané tlakem vzduchu, narazí ten kouř na neviditelný strop a počne se hřibovitě rozrůstat, roztékat do daleka, až nakonec zřídne a zmizí.
 
   
@@ -616,8 +610,6 @@ Nepomohly varovné telegramy britské „Železné lady“ Thatcherové, francou
 Tahle šachová hra Rusů skončila jediným výsledkem. Za „televizní“ porážkou je obrovské ekonomické a společenské vítězství. Jejich vysoce motivovaní lidé jsou všude ve světě. Kupují firmy, mediální koncerny a hokejové kluby. Už se nemusí železnými tanky, ale nezměrnými finančními fondy, které se potichu desítky let budovaly v Evropě a Spojených státech. Po několik generací těžce zkoušené Rusko vypustilo před dvaceti lety desítky tisíc lidí do světa a oni teď tento starý svět, spolu s Čínou, Indií, Brazílií, pomáhají držet na nohou. Všichni zainteresovaní o tom vědí, a proto o tom mlčí. Každý ovšem – z jiných důvodů.
 
 – – –
-
-  
 
 Letíme modrým vzduchem, pod námi je modré moře. Bílé věže vzdálených mračen září v oslňujícím slunci. Temně modrá obloha dává na vědomí blízkou přítomnost hlubokého vesmíru.
 

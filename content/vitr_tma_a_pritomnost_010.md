@@ -3,8 +3,6 @@ title: Kapitola 5 Let
 contentType: prose
 ---
 
-  
-
 Je noc. Blahodárná, životodárná tma – jsem plný štěstí. Tělo je nasycené melatoninem. Dlouhé hodiny spánku, celý terapeutický týden mne prostoupil touto zárodečnou látkou… Jsem plavá bestie a budu rodit sny.
 
 Po návratu z Lisabonu, kde jsem zažil šokový stav přechodu myšlení na jinou energetickou úroveň, jsem opravdu týden spal… Jen jsem se občas vzbudil, napil se a vyprázdnil… něco lehce pojedl. Za půlnočních šťastných chvilek si uvařil čaj a bezmyšlenkovitě (v hlavě aktivní, rozsáhlé sny – lidi a města) čekal, až se výluh zbarví do rudohnědých sytých tónů… Seděl jsem u malé modré lampy a díval se, jak z šálku stoupá pára… V těch chvílích jsem měl v sobě celé vesmíry a množící se mladé civilizace… (Osamělé postavy čekaly za nekonečného deště na nárožích, až pojede něco jako tramvaj, jiskr­nýma očima ohledávaly stinné kouty – právě zde probíhal válečný konflikt… Jinde zas ženy – samice inteligentních bytostí – kráčely jakoby sivým, zrnitým světlem mezi alejemi strnulých soch… tam už bylo po válkách, atomová minulost… a tichá chudoba. Pod vyrudlým pláštěm, v štíhlém těle skrývaly hluboko v sobě ukrytou, ale již rodící se budoucnost… explozivní sílu života.) Nyní vyzařuji černé světlo, tepelné vlny nově nabité energie.
@@ -462,8 +460,6 @@ Okamžitě po vyslechnutí záznamu (fotografické a video soubory jsem ani neo
 Do prázdné flešky jsem „nalil“ tolik gigabajtů filmů, kolik se do ní vešlo – abych deštěm nových dat zahladil všechny „stíny“.
 
 – – –
-
-  
 
 Autobus tlumeně hučí, uhání v ranním světle rovinatou krajinou jižní Moravy. Na obou stranách silnice se do dálky rozprostírají široká, klidná jezera… Vzduch obsahuje komponenty, které na severu nenajdete… aromatický předěl, rejstřík sluncem prohřátých trav, bylin a prachu – nekonečných, do daleka se vinoucích polních cest. Soubor jižních vůní.
 

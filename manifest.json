@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "kahuda-vitr-tma-a-pritomnost-df67b0b",
-  "revision": "df67b0b",
+  "identifier": "kahuda-vitr-tma-a-pritomnost-b2984a9",
+  "revision": "b2984a9",
   "readingOrder": [
     "promo.html",
     "vitr_tma_a_pritomnost_005.html",
@@ -19,11 +19,11 @@
     "vitr_tma_a_pritomnost_009.html",
     "vitr_tma_a_pritomnost_010.html",
     "vitr_tma_a_pritomnost_011.html",
-    "colophon.html"
+    "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jun 23 2022 10:33:22 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655980402716
+    "date": "Thu Jul 07 2022 08:42:53 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1657183373093
   },
   "documents": [
     {
@@ -72,7 +72,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Kapitola 1 Můj",
+          "name": "Kapitola 1 Můj",
           "id": null,
           "children": []
         }
@@ -92,7 +92,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Kapitola 2 Život",
+          "name": "Kapitola 2 Život",
           "id": null,
           "children": []
         }
@@ -112,7 +112,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Kapitola 3 Byl",
+          "name": "Kapitola 3 Byl",
           "id": null,
           "children": []
         }
@@ -132,7 +132,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Kapitola 4 Noční",
+          "name": "Kapitola 4 Noční",
           "id": null,
           "children": []
         }
@@ -152,7 +152,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Kapitola 5 Let",
+          "name": "Kapitola 5 Let",
           "id": null,
           "children": []
         }
@@ -167,12 +167,12 @@
       "role": "chapter",
       "order": 7,
       "prev": "vitr_tma_a_pritomnost_010.html",
-      "next": "colophon.html",
+      "next": "about.html",
       "toc": [
         {
           "index": 0,
           "level": 1,
-          "name": "Kapitola 6 Sovy",
+          "name": "Kapitola 6 Sovy",
           "id": null,
           "children": []
         }
@@ -180,11 +180,11 @@
     },
     {
       "title": "Tiráž",
-      "file": "colophon.html",
+      "file": "about.html",
       "words": 139,
-      "chars": 889,
+      "chars": 888,
       "ideas": 16,
-      "role": "colophon",
+      "role": "about",
       "order": null,
       "prev": "vitr_tma_a_pritomnost_011.html",
       "next": null,
@@ -201,9 +201,9 @@
   ],
   "totals": {
     "all": {
-      "words": 226542,
-      "chars": 1424233,
-      "ideas": 3266
+      "words": 226666,
+      "chars": 1425019,
+      "ideas": 3282
     },
     "chapters": {
       "words": 226395,

@@ -22,7 +22,7 @@ readingOrder:
   - vitr_tma_a_pritomnost_009.html
   - vitr_tma_a_pritomnost_010.html
   - vitr_tma_a_pritomnost_011.html
-  - colophon.html
+  - about.html
 tocBase:
   - id: section-1
     children:

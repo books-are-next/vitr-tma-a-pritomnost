@@ -65,7 +65,7 @@
             "filename": "vitr_tma_a_pritomnost_003.md",
             "xhtml": "vitr_tma_a_pritomnost_003.xhtml",
             "id": 2,
-            "role": "colophon",
+            "role": "about",
             "listType": "plain",
             "inToc": false,
             "hungry": false,
@@ -77,7 +77,7 @@
             "filename": "vitr_tma_a_pritomnost_004.md",
             "xhtml": "vitr_tma_a_pritomnost_004.xhtml",
             "id": 3,
-            "role": "colophon",
+            "role": "about",
             "listType": "plain",
             "inToc": false,
             "hungry": false,
@@ -180,7 +180,7 @@
             "filename": "vitr_tma_a_pritomnost_012.md",
             "xhtml": "vitr_tma_a_pritomnost_012.xhtml",
             "id": 11,
-            "role": "colophon",
+            "role": "about",
             "listType": "plain",
             "inToc": false,
             "hungry": false,
@@ -337,6 +337,6 @@
       "user": "books-are-next",
       "repo": "vitr-tma-a-pritomnost"
     },
-    "generatedAt": 1655980044082
+    "generatedAt": 1657182671967
   }
 }

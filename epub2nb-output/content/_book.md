@@ -13,6 +13,7 @@ meta:
   edition: beletrie
   publisherShort: mkp
   contentType: prose
+  isbn: 978-80-274-0592-3
 readingOrder:
   - promo.html
   - vitr_tma_a_pritomnost_005.html

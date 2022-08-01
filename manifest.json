@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "kahuda-vitr-tma-a-pritomnost-4b2159e",
-  "revision": "4b2159e",
+  "identifier": "kahuda-vitr-tma-a-pritomnost-0a4ed92",
+  "revision": "0a4ed92",
   "readingOrder": [
     "promo.html",
     "vitr_tma_a_pritomnost_005.html",
@@ -22,8 +22,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jul 21 2022 14:32:22 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1658413942749
+    "date": "Mon Aug 01 2022 13:55:34 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1659362134936
   },
   "documents": [
     {
@@ -181,9 +181,9 @@
     {
       "title": "Tiráž",
       "file": "about.html",
-      "words": 139,
-      "chars": 889,
-      "ideas": 16,
+      "words": 143,
+      "chars": 925,
+      "ideas": 17,
       "role": "about",
       "order": null,
       "prev": "vitr_tma_a_pritomnost_011.html",
@@ -201,9 +201,9 @@
   ],
   "totals": {
     "all": {
-      "words": 226667,
-      "chars": 1425015,
-      "ideas": 3282
+      "words": 226671,
+      "chars": 1425051,
+      "ideas": 3283
     },
     "chapters": {
       "words": 226395,
